@@ -1,0 +1,779 @@
+YEAR,MAKE,ENGINE SIZE,CYLINDERS,FUEL,FUEL CONSUMPTION,HWY (L/100 km),COMB (L/100 km),COMB (mpg),CO2_EMISSIONS,BROAD_VEHICLE_CLASS,TRANSMISSION_GROUP
+2020,BMW,3.0,6,Premium_gasoline,11.4,8,10.0,28.0,233.0,small_car,Advanced Automatic
+2019,Volvo,2.0,4,Premium_gasoline,11.6,8,10.0,28.0,233.0,medium_car,Advanced Automatic
+2020,BMW,3.0,6,Premium_gasoline,16.6,12,14.6,19.0,339.0,other,Advanced Automatic
+2022,Mercedes-Benz,4.0,8,Premium_gasoline,16.3,14,15.1,19.0,354.0,other,Advanced Automatic
+2006,BMW,3.0,6,Premium_gasoline,12.0,8,10.0,28.0,230.0,medium_car,Manual
+2022,Lexus,3.5,6,Premium_gasoline,12.2,9,10.8,26.0,253.0,small_car,Advanced Automatic
+2007,BMW,3.0,6,Premium_gasoline,11.7,7,9.7,29.0,222.0,small_car,Manual
+2003,BMW,4.4,8,Premium_gasoline,13.1,8,10.9,26.0,251.0,large_car,Standard Automatic
+2019,Volkswagen,2.0,4,Premium_gasoline,12.0,9,10.4,27.0,244.0,large_car,Advanced Automatic
+2008,BMW,4.8,8,Premium_gasoline,13.8,9,11.5,25.0,264.0,large_car,Standard Automatic
+2019,Mercedes-Benz,4.0,8,Premium_gasoline,13.9,10,12.0,24.0,282.0,small_car,Advanced Automatic
+2018,Mercedes-Benz,3.0,6,Premium_gasoline,12.3,9,11.0,26.0,256.0,small_car,Advanced Automatic
+2018,Subaru,3.6,6,Regular_gasoline,12.0,9,10.5,27.0,247.0,other,CVT
+2010,BMW,3.0,6,Premium_gasoline,11.7,8,9.8,29.0,225.0,small_car,Manual
+2004,BMW,2.5,6,Premium_gasoline,12.2,8,10.5,27.0,242.0,small_car,Basic Automatic
+2000,BMW,4.4,8,Premium_gasoline,13.1,9,11.2,25.0,258.0,small_car,Basic Automatic
+2017,BMW,3.0,6,Premium_gasoline,12.4,8,10.6,27.0,249.0,small_car,Advanced Automatic
+2020,Audi,2.0,4,Premium_gasoline,10.7,8,9.5,30.0,222.0,small_car,Automated Manual
+2020,Subaru,2.4,4,Regular_gasoline,11.6,9,10.4,27.0,244.0,other,CVT
+2018,Jaguar,3.0,6,Premium_gasoline,11.9,9,10.4,27.0,242.0,other,Advanced Automatic
+2016,BMW,2.0,4,Premium_gasoline,10.5,7,8.9,32.0,209.0,small_car,Advanced Automatic
+2011,BMW,3.0,6,Premium_gasoline,10.7,7,9.0,31.0,207.0,small_car,Manual
+2020,Porsche,2.9,6,Premium_gasoline,13.1,9,11.2,25.0,260.0,large_car,Automated Manual
+2020,Ford,3.5,6,Regular_gasoline,13.8,11,12.6,22.0,296.0,pick_up_truck,Advanced Automatic
+2022,Audi,2.0,4,Premium_gasoline,10.3,8,9.4,30.0,220.0,other,Automated Manual
+2001,BMW,2.5,6,Premium_gasoline,11.5,7,9.6,29.0,221.0,small_car,Manual
+2013,BMW,4.4,8,Premium_gasoline,12.9,8,10.8,26.0,248.0,large_car,Standard Automatic
+2021,Volkswagen,2.0,4,Regular_gasoline,9.8,7,8.3,34.0,195.0,medium_car,Advanced Automatic
+2013,BMW,3.0,6,Premium_gasoline,11.8,8,10.0,28.0,230.0,small_car,Standard Automatic
+2007,BMW,3.0,6,Premium_gasoline,13.6,9,11.7,24.0,269.0,other,Standard Automatic
+2020,BMW,3.0,6,Premium_gasoline,11.4,8,9.9,29.0,231.0,small_car,Advanced Automatic
+2022,Toyota,2.5,4,Regular_gasoline,8.8,7,7.9,36.0,184.0,other,Advanced Automatic
+2019,Lexus,3.5,6,Regular_gasoline,13.1,9,11.1,25.0,268.0,other,Advanced Automatic
+2020,Subaru,2.0,4,Premium_gasoline,12.9,10,11.5,25.0,263.0,small_car,CVT
+2019,Ford,3.0,6,Diesel,11.8,9,10.7,26.0,287.0,pick_up_truck,Advanced Automatic
+2019,Lexus,3.5,6,Premium_gasoline,8.1,8,8.1,35.0,190.0,other,CVT
+2019,Honda,2.0,4,Regular_gasoline,7.9,6,7.1,40.0,167.0,medium_car,CVT
+2018,BMW,4.4,8,Premium_gasoline,14.0,10,12.2,23.0,286.0,small_car,Advanced Automatic
+2022,Ford,5.0,8,Regular_gasoline,14.7,11,12.9,22.0,304.0,pick_up_truck,Advanced Automatic
+2019,Honda,1.5,4,Regular_gasoline,8.1,7,7.4,38.0,174.0,small_car,Manual
+2020,Ford,3.5,6,Regular_gasoline,14.1,11,12.5,23.0,294.0,other,Advanced Automatic
+2018,BMW,3.0,6,Premium_gasoline,13.8,9,11.9,24.0,280.0,small_car,Manual
+2010,BMW,3.0,6,Premium_gasoline,11.3,7,9.5,30.0,218.0,small_car,Standard Automatic
+2018,BMW,2.0,4,Premium_gasoline,10.8,8,9.5,30.0,223.0,other,Advanced Automatic
+2016,BMW,4.4,8,Premium_gasoline,14.4,10,12.3,23.0,288.0,medium_car,Advanced Automatic
+2021,Mercedes-Benz,4.0,8,Premium_gasoline,15.1,11,13.3,21.0,312.0,small_car,Advanced Automatic
+2021,Hyundai,2.0,4,Regular_gasoline,7.5,6,6.7,42.0,157.0,medium_car,CVT
+2021,Mercedes-Benz,4.0,8,Premium_gasoline,16.3,13,14.8,19.0,347.0,other,Advanced Automatic
+2017,BMW,2.0,4,Premium_gasoline,9.8,7,8.4,34.0,197.0,small_car,Advanced Automatic
+2019,Porsche,2.5,4,Premium_gasoline,12.3,9,11.0,26.0,257.0,other,Manual
+2018,Toyota,1.8,4,Regular_gasoline,7.8,6,6.9,41.0,163.0,medium_car,CVT
+2004,BMW,3.0,6,Premium_gasoline,11.5,7,9.6,29.0,221.0,small_car,Automated Manual
+2018,Volkswagen,1.8,4,Regular_gasoline,9.6,7,8.5,33.0,199.0,small_car,Advanced Automatic
+2021,Honda,3.5,6,Regular_gasoline,12.4,9,11.0,26.0,256.0,other,Advanced Automatic
+2018,Toyota,1.5,4,Regular_gasoline,7.8,7,7.2,39.0,168.0,small_car,Manual
+2014,BMW,3.0,6,Premium_gasoline,10.5,7,8.8,32.0,202.0,small_car,Standard Automatic
+2018,Toyota,2.0,4,Premium_gasoline,11.3,8,9.9,29.0,232.0,other,Manual
+2005,BMW,4.4,8,Premium_gasoline,13.2,8,11.0,26.0,253.0,large_car,Standard Automatic
+2021,Mercedes-Benz,4.0,8,Premium_gasoline,13.9,10,12.0,24.0,281.0,small_car,Advanced Automatic
+2004,BMW,3.0,6,Premium_gasoline,12.9,8,10.6,27.0,244.0,medium_car,Standard Automatic
+2011,BMW,4.4,8,Premium_gasoline,15.2,10,12.8,22.0,294.0,other,Standard Automatic
+2018,Audi,2.0,4,Premium_gasoline,8.6,6,7.6,37.0,177.0,small_car,Automated Manual
+2022,Porsche,2.9,6,Premium_gasoline,12.8,10,11.7,24.0,274.0,large_car,Automated Manual
+2006,BMW,4.8,8,Premium_gasoline,13.2,8,11.0,26.0,253.0,medium_car,Standard Automatic
+2021,Porsche,4.0,8,Premium_gasoline,15.7,11,13.7,21.0,323.0,large_car,Automated Manual
+2018,Hyundai,1.6,4,Regular_gasoline,9.0,8,8.6,33.0,201.0,other,Automated Manual
+2019,Mercedes-Benz,3.0,6,Premium_gasoline,11.8,9,10.3,27.0,241.0,other,Advanced Automatic
+2019,Mercedes-Benz,2.0,4,Premium_gasoline,10.3,8,9.1,31.0,215.0,small_car,Automated Manual
+2018,Ford,5.2,8,Premium_gasoline,17.2,11,14.6,19.0,341.0,small_car,Manual
+2019,BMW,3.0,6,Premium_gasoline,14.5,11,12.7,22.0,299.0,small_car,Automated Manual
+2018,Lexus,3.5,6,Regular_gasoline,11.4,8,9.7,29.0,226.0,medium_car,Advanced Automatic
+2018,Ford,2.0,4,Regular_gasoline,8.9,6,7.7,37.0,179.0,small_car,Automated Manual
+2018,Ford,5.0,8,Regular_gasoline,15.5,10,12.8,22.0,300.0,small_car,Manual
+2021,Subaru,2.5,4,Regular_gasoline,8.8,7,8.0,35.0,188.0,other,CVT
+2014,BMW,4.4,8,Premium_gasoline,13.4,8,11.1,25.0,255.0,large_car,Standard Automatic
+2020,Porsche,2.9,6,Premium_gasoline,13.1,11,11.9,24.0,278.0,other,Advanced Automatic
+2022,Porsche,3.0,6,Premium_gasoline,13.0,10,11.8,24.0,275.0,other,Automated Manual
+2021,Toyota,2.5,4,Regular_gasoline,9.5,7,8.5,33.0,200.0,other,Advanced Automatic
+2019,BMW,2.0,4,Premium_gasoline,10.2,7,8.8,32.0,207.0,large_car,Advanced Automatic
+2013,BMW,4.4,8,Premium_gasoline,12.9,8,10.8,26.0,248.0,large_car,Standard Automatic
+2006,BMW,3.0,6,Premium_gasoline,11.7,8,9.9,29.0,228.0,medium_car,Standard Automatic
+2020,Ford,5.0,8,Regular_gasoline,16.1,10,13.3,21.0,312.0,small_car,Manual
+2022,Ford,3.5,6,Regular_gasoline,13.1,10,11.7,24.0,275.0,pick_up_truck,Advanced Automatic
+2022,BMW,4.4,8,Premium_gasoline,13.5,9,11.6,24.0,271.0,small_car,Advanced Automatic
+2020,BMW,3.0,6,Premium_gasoline,14.1,10,12.4,23.0,290.0,small_car,Automated Manual
+2021,Porsche,2.9,6,Premium_gasoline,12.8,10,11.4,25.0,276.0,large_car,Automated Manual
+2019,Toyota,2.5,4,Regular_gasoline,5.8,6,6.0,47.0,140.0,other,CVT
+2020,Toyota,4.0,6,Regular_gasoline,14.8,13,13.8,20.0,321.0,other,Advanced Automatic
+2022,Mercedes-Benz,3.0,6,Premium_gasoline,11.0,8,9.6,29.0,225.0,small_car,Advanced Automatic
+2020,BMW,2.0,4,Premium_gasoline,10.9,8,9.4,30.0,219.0,small_car,Advanced Automatic
+2019,Mercedes-Benz,4.0,8,Premium_gasoline,18.1,16,17.0,17.0,396.0,other,Advanced Automatic
+2019,Hyundai,1.6,4,Regular_gasoline,8.5,7,7.8,36.0,184.0,small_car,Automated Manual
+2013,BMW,4.4,8,Premium_gasoline,15.3,10,12.9,22.0,297.0,other,Standard Automatic
+2022,Hyundai,1.6,4,Regular_gasoline,4.5,4,4.4,64.0,103.0,medium_car,Automated Manual
+2022,Mercedes-Benz,3.0,6,Premium_gasoline,11.7,8,10.2,28.0,239.0,small_car,Advanced Automatic
+2007,BMW,5.0,10,Premium_gasoline,19.9,12,16.3,17.0,375.0,medium_car,Manual
+2020,BMW,2.0,4,Premium_gasoline,9.5,7,8.5,33.0,200.0,small_car,Advanced Automatic
+2018,Porsche,3.0,6,Premium_gasoline,10.9,8,9.8,29.0,228.0,other,Automated Manual
+2022,Lexus,2.5,4,Regular_gasoline,5.5,5,5.3,53.0,124.0,medium_car,CVT
+2021,Toyota,2.5,4,Regular_gasoline,9.4,7,8.4,34.0,195.0,other,Advanced Automatic
+2015,BMW,3.0,6,Diesel,9.2,6,7.9,36.0,213.0,medium_car,Advanced Automatic
+2018,BMW,2.0,4,Premium_gasoline,10.2,7,8.9,32.0,208.0,medium_car,Advanced Automatic
+2000,BMW,2.8,6,Premium_gasoline,12.4,8,10.4,27.0,239.0,small_car,Basic Automatic
+2020,Ford,5.0,8,Ethanol,20.3,15,17.8,16.0,296.0,pick_up_truck,Advanced Automatic
+2022,Ford,3.5,6,Regular_gasoline,10.3,10,10.2,28.0,238.0,pick_up_truck,Advanced Automatic
+2013,BMW,4.0,8,Premium_gasoline,15.7,10,13.2,21.0,304.0,small_car,Automated Manual
+2020,Mercedes-Benz,3.0,6,Premium_gasoline,12.5,9,11.0,26.0,257.0,small_car,Advanced Automatic
+2016,BMW,3.0,6,Premium_gasoline,12.0,8,10.2,28.0,238.0,small_car,Advanced Automatic
+2018,Toyota,1.5,4,Regular_gasoline,7.9,7,7.4,38.0,173.0,small_car,Basic Automatic
+2022,Volkswagen,2.0,4,Regular_gasoline,11.0,8,9.8,29.0,229.0,other,Advanced Automatic
+2016,BMW,3.0,6,Premium_gasoline,14.1,10,12.1,23.0,284.0,small_car,Automated Manual
+2021,Mercedes-Benz,4.0,8,Premium_gasoline,16.2,13,14.5,19.0,340.0,other,Advanced Automatic
+2001,BMW,3.0,6,Premium_gasoline,11.2,8,9.6,29.0,221.0,other,Manual
+2020,Hyundai,1.6,4,Regular_gasoline,8.6,7,7.7,37.0,181.0,large_car,Advanced Automatic
+2014,BMW,6.0,12,Premium_gasoline,16.9,10,13.7,21.0,315.0,large_car,Standard Automatic
+2014,BMW,2.0,4,Premium_gasoline,8.9,6,7.5,38.0,173.0,medium_car,Standard Automatic
+2019,Audi,2.0,4,Regular_gasoline,10.3,8,9.2,31.0,213.0,other,Automated Manual
+2018,Audi,2.0,4,Premium_gasoline,9.9,7,8.7,32.0,204.0,small_car,Manual
+2020,Mercedes-Benz,4.0,8,Premium_gasoline,14.0,9,11.6,24.0,271.0,small_car,Advanced Automatic
+2020,Toyota,2.0,4,Regular_gasoline,7.7,6,7.0,40.0,164.0,small_car,CVT
+2010,BMW,4.0,8,Premium_gasoline,15.6,10,13.1,22.0,301.0,small_car,Automated Manual
+2020,BMW,3.0,6,Premium_gasoline,14.1,10,12.4,23.0,290.0,small_car,Automated Manual
+2018,Audi,5.2,10,Premium_gasoline,16.0,10,13.1,22.0,304.0,other,Automated Manual
+2010,BMW,3.0,6,Premium_gasoline,12.3,8,10.3,27.0,237.0,small_car,Standard Automatic
+2020,Audi,2.0,4,Regular_gasoline,8.8,7,7.8,36.0,182.0,small_car,Automated Manual
+2019,BMW,2.0,4,Premium_gasoline,11.1,7,9.4,30.0,219.0,small_car,Manual
+2018,Honda,1.8,4,Regular_gasoline,8.9,8,8.2,34.0,194.0,small_car,CVT
+2018,Porsche,2.9,6,Premium_gasoline,12.1,9,10.7,26.0,249.0,large_car,Automated Manual
+2019,Mercedes-Benz,4.0,8,Premium_gasoline,14.0,9,11.6,24.0,271.0,small_car,Advanced Automatic
+2019,Subaru,2.4,4,Regular_gasoline,11.6,9,10.4,27.0,244.0,other,CVT
+2022,Porsche,4.0,8,Premium_gasoline,16.8,12,14.8,19.0,345.0,other,Advanced Automatic
+2018,BMW,3.0,6,Premium_gasoline,11.2,8,9.7,29.0,227.0,small_car,Advanced Automatic
+2002,BMW,3.0,6,Premium_gasoline,11.9,8,10.1,28.0,232.0,small_car,Manual
+2004,BMW,3.2,6,Premium_gasoline,13.3,9,11.3,25.0,260.0,small_car,Automated Manual
+2020,Lexus,2.0,4,Premium_gasoline,11.0,8,9.5,30.0,220.0,small_car,Advanced Automatic
+2022,Toyota,2.0,4,Regular_gasoline,7.7,6,7.0,40.0,164.0,small_car,CVT
+2020,Audi,2.0,4,Premium_gasoline,12.4,10,11.3,25.0,264.0,other,Advanced Automatic
+2021,Hyundai,3.8,6,Regular_gasoline,12.3,10,11.1,25.0,265.0,other,Advanced Automatic
+2007,BMW,3.0,6,Premium_gasoline,12.2,8,10.2,28.0,235.0,small_car,Standard Automatic
+2005,BMW,2.5,6,Premium_gasoline,12.2,8,10.5,27.0,242.0,small_car,Basic Automatic
+2022,BMW,2.0,4,Premium_gasoline,10.0,7,8.7,32.0,202.0,small_car,Advanced Automatic
+2022,BMW,4.4,8,Premium_gasoline,17.9,13,15.7,18.0,364.0,other,Advanced Automatic
+2005,BMW,2.5,6,Premium_gasoline,10.6,7,8.8,32.0,202.0,small_car,Automated Manual
+2021,Mercedes-Benz,2.0,4,Premium_gasoline,10.6,8,9.5,30.0,224.0,small_car,Automated Manual
+2015,BMW,3.0,6,Premium_gasoline,11.5,8,9.8,29.0,225.0,small_car,Manual
+2011,BMW,4.0,8,Premium_gasoline,15.3,10,12.8,22.0,294.0,small_car,Manual
+2020,BMW,4.4,8,Premium_gasoline,16.0,11,13.8,20.0,322.0,small_car,Advanced Automatic
+2021,Toyota,3.5,6,Regular_gasoline,10.8,8,9.4,30.0,220.0,medium_car,Advanced Automatic
+2008,BMW,4.0,8,Premium_gasoline,15.3,10,12.8,22.0,294.0,small_car,Manual
+2008,BMW,3.0,6,Premium_gasoline,12.3,8,10.3,27.0,237.0,small_car,Standard Automatic
+2021,Subaru,2.5,4,Premium_gasoline,14.4,11,12.8,22.0,301.0,small_car,Manual
+2020,Hyundai,2.0,4,Regular_gasoline,8.6,7,7.9,36.0,187.0,other,Advanced Automatic
+2016,BMW,3.0,6,Premium_gasoline,13.7,9,11.6,24.0,271.0,small_car,Manual
+2016,BMW,3.0,6,Diesel,10.0,8,8.9,32.0,233.0,other,Advanced Automatic
+2018,Honda,2.0,4,Regular_gasoline,10.4,7,9.1,31.0,211.0,medium_car,Advanced Automatic
+2017,BMW,4.4,8,Premium_gasoline,14.7,10,12.5,23.0,292.0,small_car,Advanced Automatic
+2022,Porsche,3.0,6,Premium_gasoline,13.1,10,11.8,24.0,274.0,other,Automated Manual
+2019,Ford,3.5,6,Ethanol,18.5,13,16.0,18.0,267.0,large_car,Advanced Automatic
+2015,BMW,4.4,8,Premium_gasoline,16.1,11,13.8,20.0,317.0,other,Advanced Automatic
+2019,Volkswagen,1.4,4,Regular_gasoline,8.1,6,7.4,38.0,172.0,small_car,Advanced Automatic
+2013,BMW,4.0,8,Premium_gasoline,15.2,10,12.7,22.0,292.0,small_car,Manual
+2021,Subaru,2.0,4,Regular_gasoline,8.3,6,7.5,38.0,174.0,medium_car,CVT
+2003,BMW,2.5,6,Premium_gasoline,11.6,7,9.7,29.0,223.0,small_car,Manual
+2020,Toyota,2.5,4,Regular_gasoline,5.7,6,6.0,47.0,139.0,other,CVT
+2018,BMW,3.0,6,Premium_gasoline,11.8,9,10.5,27.0,245.0,small_car,Automated Manual
+2022,Toyota,1.8,4,Regular_gasoline,4.4,5,4.5,63.0,106.0,small_car,CVT
+2016,BMW,3.0,6,Premium_gasoline,12.7,9,10.9,26.0,257.0,other,Advanced Automatic
+2021,Volkswagen,3.6,6,Regular_gasoline,13.8,10,12.3,23.0,289.0,other,Advanced Automatic
+2020,Porsche,4.0,8,Premium_gasoline,15.8,12,14.2,20.0,332.0,other,Advanced Automatic
+2017,BMW,3.0,6,Premium_gasoline,13.1,9,11.4,25.0,267.0,small_car,Manual
+2022,Mercedes-Benz,2.0,4,Premium_gasoline,11.5,9,10.4,27.0,242.0,other,Advanced Automatic
+2000,BMW,4.4,8,Premium_gasoline,13.8,9,11.7,24.0,269.0,medium_car,Basic Automatic
+2020,Honda,2.0,4,Regular_gasoline,7.9,6,7.1,40.0,167.0,medium_car,CVT
+2020,Audi,4.0,8,Premium_gasoline,15.8,11,13.8,20.0,322.0,other,Advanced Automatic
+2016,BMW,3.0,6,Premium_gasoline,12.7,9,10.9,26.0,257.0,other,Advanced Automatic
+2009,BMW,5.0,10,Premium_gasoline,20.3,12,16.4,17.0,377.0,small_car,Manual
+2021,BMW,3.0,6,Premium_gasoline,11.4,9,10.4,27.0,242.0,other,Advanced Automatic
+2019,Hyundai,1.6,4,Regular_gasoline,8.2,6,7.3,39.0,173.0,small_car,Manual
+2021,Porsche,4.0,8,Premium_gasoline,15.7,12,13.9,20.0,323.0,large_car,Automated Manual
+2020,Mercedes-Benz,4.0,8,Premium_gasoline,13.9,9,11.8,24.0,277.0,small_car,Advanced Automatic
+2006,BMW,4.8,8,Premium_gasoline,13.2,8,11.0,26.0,253.0,small_car,Standard Automatic
+2019,Ford,3.3,6,Regular_gasoline,13.8,11,12.4,23.0,291.0,pick_up_truck,Advanced Automatic
+2022,Toyota,3.5,6,Regular_gasoline,13.0,11,11.8,24.0,278.0,pick_up_truck,Advanced Automatic
+2021,Audi,2.0,4,Premium_gasoline,10.1,8,9.3,30.0,217.0,other,Automated Manual
+2021,Audi,2.9,6,Premium_gasoline,12.9,9,10.9,26.0,255.0,medium_car,Advanced Automatic
+2019,Hyundai,2.0,4,Regular_gasoline,9.8,7,8.7,32.0,207.0,large_car,Manual
+2022,Audi,4.0,8,Premium_gasoline,16.0,11,13.9,20.0,325.0,other,Advanced Automatic
+2021,Porsche,3.0,6,Premium_gasoline,13.1,10,11.6,24.0,275.0,other,Automated Manual
+2022,Ford,2.3,4,Regular_gasoline,11.7,9,10.3,27.0,242.0,small_car,Advanced Automatic
+2019,Lexus,3.4,6,Premium_gasoline,13.1,9,11.1,25.0,261.0,medium_car,Advanced Automatic
+2019,BMW,3.0,6,Premium_gasoline,13.4,10,11.7,24.0,273.0,small_car,Manual
+2006,BMW,3.0,6,Premium_gasoline,11.3,7,9.4,30.0,216.0,small_car,Standard Automatic
+2015,BMW,3.0,6,Premium_gasoline,11.5,8,9.8,29.0,225.0,small_car,Manual
+2002,BMW,3.0,6,Premium_gasoline,15.6,11,13.4,21.0,308.0,other,Manual
+2018,Jaguar,5.0,8,Premium_gasoline,15.6,10,13.3,21.0,311.0,other,Advanced Automatic
+2019,Toyota,1.5,4,Regular_gasoline,4.9,6,5.1,55.0,120.0,small_car,CVT
+2019,Toyota,3.5,6,Regular_gasoline,13.8,11,12.7,22.0,299.0,pick_up_truck,Manual
+2020,Toyota,2.5,4,Regular_gasoline,9.5,7,8.4,34.0,197.0,medium_car,Advanced Automatic
+2019,Volkswagen,2.0,4,Regular_gasoline,10.7,8,9.5,30.0,221.0,other,Advanced Automatic
+2020,Volkswagen,2.0,4,Regular_gasoline,9.7,8,8.7,32.0,203.0,small_car,Automated Manual
+2001,BMW,3.0,6,Premium_gasoline,12.6,8,10.7,26.0,246.0,small_car,Basic Automatic
+2020,Porsche,2.0,4,Premium_gasoline,11.2,9,10.1,28.0,236.0,other,Automated Manual
+2018,Ford,5.0,8,Regular_gasoline,15.1,9,12.5,23.0,291.0,small_car,Advanced Automatic
+2018,Porsche,3.6,6,Premium_gasoline,14.5,10,12.6,22.0,296.0,other,Standard Automatic
+2002,BMW,2.2,6,Premium_gasoline,11.3,7,9.5,30.0,218.0,small_car,Manual
+2019,Honda,1.5,4,Regular_gasoline,4.6,5,4.9,58.0,114.0,medium_car,CVT
+2017,BMW,3.0,6,Premium_gasoline,12.2,8,10.4,27.0,242.0,small_car,Manual
+2019,Ford,2.0,4,Regular_gasoline,11.5,9,10.2,28.0,239.0,other,Advanced Automatic
+2020,Mercedes-Benz,4.0,8,Premium_gasoline,14.1,9,11.8,24.0,275.0,large_car,Advanced Automatic
+2022,Hyundai,2.0,4,Premium_gasoline,12.1,8,10.2,28.0,241.0,medium_car,Automated Manual
+2021,Audi,4.0,8,Premium_gasoline,16.1,11,13.7,21.0,319.0,medium_car,Advanced Automatic
+2021,Ford,2.0,4,Regular_gasoline,11.5,8,10.0,28.0,236.0,other,Standard Automatic
+2020,Lexus,3.5,6,Premium_gasoline,12.3,9,10.9,26.0,254.0,small_car,Advanced Automatic
+2005,BMW,3.0,6,Premium_gasoline,11.4,7,9.6,29.0,221.0,other,Manual
+2008,BMW,3.0,6,Premium_gasoline,12.0,8,10.1,28.0,232.0,small_car,Manual
+2019,Lexus,5.7,8,Premium_gasoline,18.2,13,15.8,18.0,371.0,other,Advanced Automatic
+2019,BMW,3.0,6,Premium_gasoline,14.3,10,12.6,22.0,294.0,small_car,Automated Manual
+2018,Audi,2.0,4,Premium_gasoline,11.9,8,10.3,27.0,240.0,small_car,Advanced Automatic
+2022,Ford,2.5,4,Regular_gasoline,5.4,6,5.8,49.0,136.0,other,CVT
+2003,BMW,3.0,6,Premium_gasoline,15.6,11,13.4,21.0,308.0,other,Manual
+2021,Volkswagen,2.0,4,Regular_gasoline,11.7,10,10.9,26.0,257.0,other,Advanced Automatic
+2021,Hyundai,2.5,4,Regular_gasoline,11.0,9,9.9,29.0,233.0,other,Automated Manual
+2009,BMW,3.0,6,Premium_gasoline,12.5,8,10.6,27.0,244.0,other,Manual
+2001,BMW,3.0,6,Premium_gasoline,11.3,7,9.5,30.0,218.0,small_car,Manual
+2004,BMW,2.5,6,Premium_gasoline,11.4,8,9.7,29.0,223.0,other,Basic Automatic
+2019,Honda,2.0,4,Regular_gasoline,9.3,7,8.1,35.0,189.0,small_car,Manual
+2000,BMW,2.8,6,Premium_gasoline,12.4,8,10.6,27.0,244.0,small_car,Basic Automatic
+2021,Porsche,4.0,6,Premium_gasoline,12.3,10,11.1,25.0,260.0,other,Automated Manual
+2022,Mercedes-Benz,4.0,8,Premium_gasoline,16.2,13,14.6,19.0,341.0,other,Advanced Automatic
+2021,Hyundai,1.6,4,Regular_gasoline,7.1,8,7.4,38.0,176.0,other,Automated Manual
+2004,BMW,4.4,8,Premium_gasoline,13.1,8,10.9,26.0,251.0,small_car,Standard Automatic
+2004,BMW,3.2,6,Premium_gasoline,14.9,9,12.4,23.0,285.0,small_car,Manual
+2008,BMW,3.0,6,Premium_gasoline,11.7,8,9.9,29.0,228.0,small_car,Standard Automatic
+2022,Ford,2.3,4,Regular_gasoline,13.1,13,13.1,22.0,308.0,other,Advanced Automatic
+2018,BMW,2.0,4,Premium_gasoline,10.2,7,8.9,32.0,208.0,large_car,Advanced Automatic
+2001,BMW,2.5,6,Premium_gasoline,12.2,8,10.4,27.0,239.0,small_car,Basic Automatic
+2017,BMW,3.0,6,Premium_gasoline,11.1,8,9.6,29.0,224.0,small_car,Advanced Automatic
+2019,Subaru,2.0,4,Premium_gasoline,11.3,9,10.0,28.0,235.0,small_car,Manual
+2014,BMW,4.4,8,Premium_gasoline,15.6,10,13.0,22.0,299.0,small_car,Automated Manual
+2018,Ford,2.3,4,Regular_gasoline,11.8,8,10.3,27.0,240.0,small_car,Manual
+2020,Land Rover,3.0,6,Premium_gasoline,14.8,11,13.3,21.0,311.0,other,Advanced Automatic
+2012,BMW,3.0,6,Premium_gasoline,12.3,8,10.5,27.0,242.0,small_car,Automated Manual
+2018,Hyundai,2.0,4,Regular_gasoline,9.4,7,8.4,34.0,198.0,large_car,Advanced Automatic
+2016,BMW,3.0,6,Premium_gasoline,13.7,9,11.6,24.0,271.0,small_car,Manual
+2015,BMW,4.4,8,Premium_gasoline,17.3,12,14.7,19.0,338.0,medium_car,Automated Manual
+2015,BMW,4.4,8,Premium_gasoline,15.2,10,12.8,22.0,294.0,large_car,Advanced Automatic
+2021,Subaru,2.5,4,Regular_gasoline,8.9,7,7.9,36.0,184.0,large_car,CVT
+2022,Porsche,2.0,4,Premium_gasoline,11.7,9,10.5,27.0,245.0,other,Manual
+2008,BMW,3.0,6,Premium_gasoline,11.4,7,9.5,30.0,218.0,small_car,Standard Automatic
+2018,BMW,3.0,6,Premium_gasoline,10.9,8,9.5,30.0,222.0,small_car,Advanced Automatic
+2021,Mercedes-Benz,2.0,4,Premium_gasoline,9.8,7,8.7,32.0,203.0,other,Automated Manual
+2017,BMW,4.4,8,Premium_gasoline,14.7,10,12.5,23.0,292.0,small_car,Advanced Automatic
+2015,BMW,2.0,4,Premium_gasoline,10.3,7,8.7,32.0,200.0,small_car,Advanced Automatic
+2015,BMW,2.0,4,Premium_gasoline,10.6,7,9.1,31.0,209.0,large_car,Advanced Automatic
+2019,Honda,1.5,4,Regular_gasoline,8.4,7,7.8,36.0,181.0,other,CVT
+2022,Hyundai,2.5,4,Regular_gasoline,9.9,8,9.0,31.0,214.0,other,Advanced Automatic
+2021,Mercedes-Benz,4.0,8,Premium_gasoline,13.6,12,13.1,22.0,307.0,other,Advanced Automatic
+2020,BMW,3.0,6,Premium_gasoline,13.4,10,11.7,24.0,273.0,small_car,Manual
+2021,Ford,3.3,6,Regular_gasoline,12.5,11,11.7,24.0,275.0,pick_up_truck,Advanced Automatic
+2022,Porsche,3.0,6,Premium_gasoline,13.8,10,12.0,24.0,281.0,other,Manual
+2020,Ford,5.0,8,Ethanol,20.0,15,17.6,16.0,293.0,pick_up_truck,Advanced Automatic
+2014,BMW,4.4,8,Premium_gasoline,12.8,8,10.7,26.0,246.0,medium_car,Standard Automatic
+2016,BMW,3.0,6,Premium_gasoline,10.6,8,9.4,30.0,219.0,medium_car,Advanced Automatic
+2020,Lexus,2.0,4,Premium_gasoline,10.8,9,9.9,29.0,232.0,other,Advanced Automatic
+2006,BMW,3.0,6,Premium_gasoline,12.1,8,10.2,28.0,235.0,medium_car,Manual
+2022,BMW,4.4,8,Premium_gasoline,16.1,11,13.8,20.0,322.0,medium_car,Advanced Automatic
+2009,BMW,3.0,6,Premium_gasoline,11.4,7,9.6,29.0,221.0,medium_car,Standard Automatic
+2018,Mercedes-Benz,2.0,4,Premium_gasoline,11.0,9,10.0,28.0,235.0,other,Advanced Automatic
+2020,Toyota,2.0,4,Premium_gasoline,9.9,7,8.7,32.0,204.0,other,Advanced Automatic
+2022,Lexus,2.4,4,Premium_gasoline,10.5,8,9.5,30.0,222.0,other,Advanced Automatic
+2008,BMW,3.0,6,Premium_gasoline,11.1,7,9.3,30.0,214.0,small_car,Standard Automatic
+2019,Toyota,3.5,6,Regular_gasoline,13.4,10,11.7,24.0,274.0,other,Advanced Automatic
+2005,BMW,2.5,6,Premium_gasoline,10.6,7,8.8,32.0,202.0,medium_car,Automated Manual
+2018,Audi,3.0,6,Premium_gasoline,11.9,8,10.2,28.0,239.0,small_car,Automated Manual
+2020,Porsche,2.5,4,Premium_gasoline,12.5,10,11.2,25.0,263.0,other,Manual
+2018,Honda,2.0,4,Premium_gasoline,10.6,8,9.6,29.0,224.0,large_car,Manual
+2017,BMW,3.0,6,Premium_gasoline,12.2,8,10.4,27.0,242.0,small_car,Manual
+2020,Lexus,3.5,6,Regular_gasoline,13.1,9,11.1,25.0,268.0,other,Advanced Automatic
+2019,Volkswagen,1.4,4,Regular_gasoline,8.2,6,7.4,38.0,172.0,small_car,Manual
+2018,Porsche,2.5,4,Premium_gasoline,12.3,9,11.0,26.0,257.0,other,Manual
+2020,Ford,2.3,4,Regular_gasoline,11.8,10,10.9,26.0,256.0,pick_up_truck,Advanced Automatic
+2019,Toyota,2.0,4,Regular_gasoline,8.7,8,8.2,34.0,189.0,small_car,Advanced Automatic
+2008,BMW,3.0,6,Premium_gasoline,11.9,8,9.9,29.0,228.0,small_car,Standard Automatic
+2020,BMW,3.0,6,Premium_gasoline,13.8,9,11.9,24.0,280.0,small_car,Manual
+2018,Subaru,2.0,4,Premium_gasoline,10.2,9,9.5,30.0,223.0,other,CVT
+2016,BMW,3.0,6,Premium_gasoline,11.6,8,9.9,29.0,232.0,small_car,Advanced Automatic
+2003,BMW,3.0,6,Premium_gasoline,11.9,8,10.0,28.0,230.0,small_car,Manual
+2018,Mercedes-Benz,2.0,4,Premium_gasoline,10.5,8,9.1,31.0,214.0,small_car,Advanced Automatic
+2018,Porsche,3.8,6,Premium_gasoline,13.8,10,12.3,23.0,285.0,other,Automated Manual
+2019,Ford,2.5,4,Regular_gasoline,11.0,8,9.6,29.0,226.0,other,Advanced Automatic
+2005,BMW,4.4,8,Premium_gasoline,14.3,9,11.7,24.0,269.0,medium_car,Manual
+2018,Lexus,3.5,6,Premium_gasoline,8.9,7,8.0,35.0,187.0,small_car,CVT
+2008,BMW,5.0,10,Premium_gasoline,18.4,11,15.1,19.0,347.0,medium_car,Automated Manual
+2016,BMW,3.0,6,Premium_gasoline,12.0,8,10.2,28.0,238.0,small_car,Advanced Automatic
+2019,Ford,2.7,6,Regular_gasoline,12.7,10,11.4,25.0,268.0,pick_up_truck,Advanced Automatic
+2021,Mercedes-Benz,4.0,8,Premium_gasoline,15.5,10,12.9,22.0,301.0,large_car,Advanced Automatic
+2019,Honda,1.5,4,Premium_gasoline,7.9,7,7.3,39.0,170.0,large_car,CVT
+2018,Ford,2.0,4,Regular_gasoline,11.3,8,9.9,29.0,231.0,other,Advanced Automatic
+2021,Porsche,4.0,6,Premium_gasoline,14.0,10,12.2,23.0,284.0,other,Manual
+2020,Lexus,3.5,6,Premium_gasoline,7.5,8,7.9,36.0,185.0,other,CVT
+2018,Porsche,3.0,6,Premium_gasoline,11.0,8,9.8,29.0,230.0,other,Automated Manual
+2018,Ford,3.3,6,Ethanol,17.6,14,15.8,18.0,263.0,pick_up_truck,Advanced Automatic
+2009,BMW,4.0,8,Premium_gasoline,15.4,10,12.9,22.0,297.0,small_car,Automated Manual
+2022,Porsche,3.0,6,Premium_gasoline,13.6,11,12.3,23.0,287.0,other,Automated Manual
+2021,Ford,2.0,4,Regular_gasoline,9.8,9,9.3,30.0,217.0,other,Advanced Automatic
+2021,Audi,3.0,6,Premium_gasoline,11.5,9,10.1,28.0,237.0,medium_car,Advanced Automatic
+2004,BMW,2.5,6,Premium_gasoline,12.7,8,10.7,26.0,246.0,small_car,Basic Automatic
+2021,Jaguar,2.0,4,Premium_gasoline,10.2,8,9.2,31.0,215.0,other,Advanced Automatic
+2020,Hyundai,2.0,4,Premium_gasoline,10.6,8,9.5,30.0,226.0,small_car,Manual
+2020,Audi,2.0,4,Regular_gasoline,10.3,8,9.1,31.0,213.0,small_car,Automated Manual
+2018,Mercedes-Benz,4.0,8,Premium_gasoline,13.4,10,11.7,24.0,274.0,small_car,Standard Automatic
+2019,Ford,2.3,4,Regular_gasoline,11.2,7,9.4,30.0,221.0,small_car,Advanced Automatic
+2004,BMW,3.0,6,Premium_gasoline,12.1,8,10.1,28.0,232.0,small_car,Manual
+2000,BMW,2.8,6,Premium_gasoline,13.0,8,10.9,26.0,251.0,small_car,Basic Automatic
+2018,Audi,2.0,4,Regular_gasoline,9.7,8,8.7,32.0,205.0,small_car,Automated Manual
+2019,Ford,5.0,8,Ethanol,20.4,14,17.5,16.0,291.0,pick_up_truck,Advanced Automatic
+2019,Toyota,1.5,4,Regular_gasoline,7.3,6,6.6,43.0,155.0,small_car,Advanced Automatic
+2020,Porsche,3.0,6,Premium_gasoline,12.4,9,10.9,26.0,253.0,large_car,Automated Manual
+2014,BMW,3.0,6,Premium_gasoline,11.1,8,9.6,29.0,221.0,other,Standard Automatic
+2018,Land Rover,2.0,4,Premium_gasoline,11.4,9,10.5,27.0,246.0,other,Advanced Automatic
+2017,BMW,4.4,8,Premium_gasoline,16.6,12,14.6,19.0,341.0,other,Advanced Automatic
+2010,BMW,5.0,10,Premium_gasoline,17.9,11,14.8,19.0,340.0,medium_car,Automated Manual
+2005,BMW,2.5,6,Premium_gasoline,10.6,7,8.8,32.0,202.0,small_car,Automated Manual
+2004,BMW,2.5,6,Premium_gasoline,10.6,7,8.9,32.0,205.0,small_car,Automated Manual
+2019,Volvo,2.0,4,Premium_gasoline,11.1,7,9.4,30.0,219.0,medium_car,Advanced Automatic
+2020,Hyundai,2.0,4,Regular_gasoline,10.8,9,10.1,28.0,239.0,other,Advanced Automatic
+2019,Lexus,2.0,4,Regular_gasoline,5.5,6,5.6,50.0,130.0,small_car,CVT
+2019,Volkswagen,2.0,4,Regular_gasoline,9.8,7,8.7,32.0,203.0,small_car,Manual
+2020,Porsche,2.0,4,Premium_gasoline,11.0,9,10.0,28.0,233.0,other,Automated Manual
+2019,Mercedes-Benz,2.0,4,Premium_gasoline,10.9,8,9.5,30.0,221.0,small_car,Advanced Automatic
+2018,Lexus,5.7,8,Premium_gasoline,18.2,13,15.8,18.0,371.0,other,Advanced Automatic
+2018,BMW,2.0,4,Premium_gasoline,10.7,7,9.1,31.0,214.0,small_car,Advanced Automatic
+2019,Porsche,4.0,8,Premium_gasoline,13.4,10,11.9,24.0,279.0,large_car,Automated Manual
+2020,Ford,2.5,4,Regular_gasoline,12.1,9,10.7,26.0,251.0,other,Advanced Automatic
+2022,Audi,2.9,6,Premium_gasoline,13.0,9,11.4,25.0,267.0,small_car,Advanced Automatic
+2005,BMW,2.2,6,Premium_gasoline,11.3,7,9.5,30.0,218.0,small_car,Manual
+2018,BMW,3.0,6,Premium_gasoline,11.6,8,10.0,28.0,236.0,medium_car,Advanced Automatic
+2016,BMW,3.0,6,Premium_gasoline,11.6,8,9.9,29.0,232.0,small_car,Advanced Automatic
+2012,BMW,3.0,6,Premium_gasoline,13.1,9,11.1,25.0,255.0,other,Standard Automatic
+2019,BMW,3.0,6,Premium_gasoline,13.8,9,11.9,24.0,280.0,small_car,Manual
+2021,Mercedes-Benz,3.0,6,Premium_gasoline,11.3,9,10.2,28.0,239.0,small_car,Advanced Automatic
+2018,Subaru,2.0,4,Premium_gasoline,12.6,10,11.2,25.0,256.0,small_car,CVT
+2022,Honda,1.8,4,Regular_gasoline,8.8,8,8.2,34.0,193.0,small_car,CVT
+2021,Porsche,3.0,6,Premium_gasoline,13.0,10,11.8,24.0,275.0,other,Automated Manual
+2019,Porsche,3.0,6,Premium_gasoline,12.1,8,10.4,27.0,243.0,other,Manual
+2020,Mercedes-Benz,2.0,4,Premium_gasoline,10.9,8,9.5,30.0,221.0,small_car,Advanced Automatic
+2001,BMW,3.0,6,Premium_gasoline,12.0,8,10.3,27.0,237.0,other,Basic Automatic
+2018,Jaguar,3.0,6,Premium_gasoline,13.3,10,11.8,24.0,277.0,other,Advanced Automatic
+2001,BMW,3.0,6,Premium_gasoline,13.0,9,11.0,26.0,253.0,small_car,Basic Automatic
+2022,Audi,2.9,6,Premium_gasoline,12.8,9,10.9,26.0,254.0,medium_car,Advanced Automatic
+2004,BMW,3.0,6,Premium_gasoline,12.2,8,10.3,27.0,237.0,small_car,Basic Automatic
+2022,BMW,2.0,4,Premium_gasoline,10.0,7,8.7,32.0,202.0,small_car,Advanced Automatic
+2007,BMW,3.0,6,Premium_gasoline,11.3,7,9.3,30.0,214.0,small_car,Standard Automatic
+2018,BMW,2.0,4,Premium_gasoline,9.9,7,8.6,33.0,202.0,small_car,Advanced Automatic
+2018,Ford,1.6,4,Regular_gasoline,8.6,7,7.8,36.0,182.0,small_car,Manual
+2003,BMW,2.5,6,Premium_gasoline,11.6,8,9.8,29.0,225.0,small_car,Basic Automatic
+2019,Audi,3.0,6,Premium_gasoline,10.7,8,9.6,29.0,224.0,medium_car,Automated Manual
+2022,Volvo,2.0,4,Premium_gasoline,10.9,8,9.5,30.0,221.0,small_car,Advanced Automatic
+2006,BMW,3.0,6,Premium_gasoline,11.4,7,9.4,30.0,216.0,small_car,Manual
+2005,BMW,4.4,8,Premium_gasoline,14.3,9,11.7,24.0,269.0,small_car,Manual
+2018,Honda,1.5,4,Premium_gasoline,7.9,7,7.3,39.0,170.0,large_car,CVT
+2021,Hyundai,2.0,4,Regular_gasoline,10.8,9,10.1,28.0,239.0,other,Advanced Automatic
+2021,Lexus,3.5,6,Premium_gasoline,12.2,9,10.8,26.0,253.0,small_car,Advanced Automatic
+2016,BMW,2.0,4,Premium_gasoline,10.9,7,9.0,31.0,210.0,small_car,Manual
+2021,Mercedes-Benz,2.0,4,Premium_gasoline,10.3,8,9.2,31.0,216.0,other,Automated Manual
+2020,Jaguar,3.0,6,Premium_gasoline,13.0,9,11.3,25.0,265.0,other,Advanced Automatic
+2018,Ford,2.0,4,Regular_gasoline,11.9,9,10.5,27.0,246.0,other,Advanced Automatic
+2003,BMW,3.0,6,Premium_gasoline,11.3,7,9.5,30.0,218.0,small_car,Manual
+2021,Volvo,2.0,4,Premium_gasoline,12.1,9,10.5,27.0,245.0,other,Advanced Automatic
+2019,Mercedes-Benz,3.0,6,Premium_gasoline,12.4,9,10.7,26.0,253.0,small_car,Advanced Automatic
+2011,BMW,3.0,6,Premium_gasoline,11.0,8,9.4,30.0,216.0,small_car,Manual
+2021,Ford,2.5,4,Regular_gasoline,12.0,9,10.6,27.0,247.0,other,Advanced Automatic
+2016,BMW,4.4,8,Premium_gasoline,16.1,11,13.7,21.0,321.0,small_car,Manual
+2009,BMW,2.5,6,Premium_gasoline,11.2,7,9.2,31.0,212.0,small_car,Standard Automatic
+2021,Hyundai,2.0,4,Regular_gasoline,7.1,6,6.4,44.0,152.0,medium_car,CVT
+2020,Toyota,2.5,4,Regular_gasoline,9.3,7,8.2,34.0,190.0,medium_car,Advanced Automatic
+2022,Ford,2.3,4,Regular_gasoline,12.4,12,12.4,23.0,291.0,pick_up_truck,Advanced Automatic
+2018,Hyundai,1.6,4,Regular_gasoline,9.2,7,8.3,34.0,194.0,large_car,Automated Manual
+2022,Ford,2.3,4,Regular_gasoline,12.5,11,11.8,24.0,277.0,other,Advanced Automatic
+2013,BMW,3.0,6,Premium_gasoline,10.8,7,9.2,31.0,212.0,small_car,Manual
+2005,BMW,3.0,6,Premium_gasoline,11.3,7,9.5,30.0,218.0,small_car,Automated Manual
+2022,Ford,5.0,8,Regular_gasoline,15.1,11,13.1,22.0,308.0,pick_up_truck,Advanced Automatic
+2020,Jaguar,3.0,6,Premium_gasoline,13.3,10,11.8,24.0,277.0,other,Advanced Automatic
+2012,BMW,3.0,6,Premium_gasoline,11.1,8,9.6,29.0,221.0,other,Standard Automatic
+2013,BMW,4.4,8,Premium_gasoline,13.3,9,11.2,25.0,258.0,small_car,Automated Manual
+2022,Toyota,2.5,4,Regular_gasoline,8.7,7,7.9,36.0,184.0,other,Advanced Automatic
+2018,Mercedes-Benz,2.0,4,Premium_gasoline,11.5,10,10.7,26.0,251.0,other,Standard Automatic
+2005,BMW,2.5,6,Premium_gasoline,13.6,9,11.5,25.0,264.0,other,Manual
+2019,Subaru,2.0,4,Regular_gasoline,10.1,8,8.9,32.0,209.0,medium_car,Manual
+2021,Ford,5.0,8,Regular_gasoline,14.8,11,13.1,22.0,307.0,pick_up_truck,Advanced Automatic
+2019,BMW,2.0,4,Premium_gasoline,10.2,7,8.8,32.0,207.0,medium_car,Advanced Automatic
+2007,BMW,3.0,6,Premium_gasoline,11.7,8,10.0,28.0,230.0,small_car,Standard Automatic
+2020,Porsche,3.0,6,Premium_gasoline,13.8,10,12.0,24.0,280.0,other,Manual
+2006,BMW,3.0,6,Premium_gasoline,11.4,7,9.4,30.0,216.0,small_car,Manual
+2016,BMW,2.0,4,Diesel,7.7,6,6.8,42.0,183.0,small_car,Advanced Automatic
+2015,BMW,3.0,6,Premium_gasoline,11.8,8,9.9,29.0,228.0,small_car,Advanced Automatic
+2019,BMW,3.0,6,Premium_gasoline,12.8,9,11.0,26.0,256.0,small_car,Manual
+2020,Toyota,1.8,4,Regular_gasoline,4.4,5,4.5,63.0,106.0,medium_car,CVT
+2019,Porsche,3.0,6,Premium_gasoline,12.2,9,10.5,27.0,246.0,other,Manual
+2009,BMW,3.0,6,Premium_gasoline,11.9,8,10.0,28.0,230.0,small_car,Standard Automatic
+2019,Porsche,4.0,8,Premium_gasoline,14.5,10,12.6,22.0,295.0,large_car,Automated Manual
+2019,Honda,2.0,4,Premium_gasoline,10.6,8,9.6,29.0,224.0,large_car,Manual
+2018,Ford,2.7,6,Regular_gasoline,11.9,9,10.6,27.0,249.0,pick_up_truck,Advanced Automatic
+2010,BMW,3.0,6,Premium_gasoline,11.8,8,9.9,29.0,228.0,small_car,Standard Automatic
+2014,BMW,4.4,8,Premium_gasoline,14.7,10,12.4,23.0,285.0,other,Standard Automatic
+2019,Jaguar,3.0,6,Premium_gasoline,11.9,9,10.4,27.0,242.0,other,Advanced Automatic
+2020,Audi,5.2,10,Premium_gasoline,17.5,12,14.9,19.0,347.0,other,Automated Manual
+2019,Jaguar,3.0,6,Premium_gasoline,11.9,9,10.4,27.0,242.0,other,Advanced Automatic
+2021,Ford,3.5,6,Regular_gasoline,15.8,13,14.6,19.0,344.0,pick_up_truck,Advanced Automatic
+2021,Porsche,2.9,6,Premium_gasoline,13.8,10,12.2,23.0,289.0,large_car,Automated Manual
+2022,Hyundai,2.5,4,Regular_gasoline,11.0,9,9.9,29.0,233.0,other,Automated Manual
+2018,Mercedes-Benz,3.0,6,Premium_gasoline,11.9,9,10.6,27.0,248.0,small_car,Advanced Automatic
+2021,Ford,2.3,4,Regular_gasoline,12.1,12,12.2,23.0,287.0,pick_up_truck,Advanced Automatic
+2022,Audi,5.2,10,Premium_gasoline,16.7,10,13.8,20.0,322.0,other,Automated Manual
+2018,Audi,2.0,4,Premium_gasoline,12.2,10,11.0,26.0,258.0,other,Advanced Automatic
+2021,Ford,2.3,4,Regular_gasoline,11.0,8,9.4,30.0,222.0,small_car,Advanced Automatic
+2012,BMW,3.0,6,Premium_gasoline,11.6,8,9.9,29.0,228.0,small_car,Automated Manual
+2020,BMW,4.4,8,Premium_gasoline,14.5,10,12.4,23.0,290.0,large_car,Advanced Automatic
+2014,BMW,3.0,6,Premium_gasoline,11.2,8,9.6,29.0,221.0,other,Manual
+2001,BMW,5.4,12,Premium_gasoline,17.3,11,14.4,20.0,331.0,large_car,Basic Automatic
+2002,BMW,2.5,6,Premium_gasoline,12.2,8,10.4,27.0,239.0,small_car,Basic Automatic
+2019,Porsche,3.0,6,Premium_gasoline,12.1,8,10.4,27.0,242.0,other,Manual
+2022,Volvo,2.0,4,Premium_gasoline,10.4,8,9.1,31.0,212.0,medium_car,Advanced Automatic
+2020,Ford,3.5,6,Regular_gasoline,14.7,11,13.1,22.0,308.0,other,Advanced Automatic
+2019,Mercedes-Benz,3.0,6,Premium_gasoline,14.0,11,12.4,23.0,292.0,other,Advanced Automatic
+2018,Subaru,2.0,4,Regular_gasoline,10.1,8,9.0,31.0,211.0,small_car,Manual
+2018,Hyundai,2.4,4,Regular_gasoline,9.8,7,8.5,33.0,202.0,large_car,Advanced Automatic
+2022,Volvo,2.0,4,Premium_gasoline,11.0,9,9.9,29.0,232.0,other,Advanced Automatic
+2012,BMW,3.0,6,Premium_gasoline,11.2,7,9.4,30.0,216.0,small_car,Manual
+2020,Porsche,2.5,4,Premium_gasoline,12.2,9,10.9,26.0,255.0,other,Automated Manual
+2017,BMW,3.0,6,Premium_gasoline,12.2,9,10.5,27.0,246.0,small_car,Manual
+2019,Toyota,1.8,4,Regular_gasoline,8.3,7,7.6,37.0,178.0,medium_car,CVT
+2021,Porsche,2.5,4,Premium_gasoline,12.5,10,11.2,25.0,263.0,other,Manual
+2008,BMW,5.0,10,Premium_gasoline,18.4,11,15.1,19.0,347.0,small_car,Automated Manual
+2020,Jaguar,2.0,4,Premium_gasoline,10.9,9,9.9,29.0,232.0,other,Advanced Automatic
+2019,Lexus,3.5,6,Premium_gasoline,12.3,9,10.9,26.0,254.0,small_car,Advanced Automatic
+2018,Porsche,3.6,6,Premium_gasoline,13.6,10,12.1,23.0,281.0,other,Standard Automatic
+2022,BMW,2.0,4,Premium_gasoline,11.0,9,9.9,29.0,230.0,other,Advanced Automatic
+2016,BMW,3.0,6,Premium_gasoline,12.1,8,10.5,27.0,246.0,small_car,Manual
+2003,BMW,2.5,6,Premium_gasoline,11.6,7,9.7,29.0,223.0,small_car,Manual
+2006,BMW,3.0,6,Premium_gasoline,11.7,8,9.9,29.0,228.0,medium_car,Standard Automatic
+2019,Mercedes-Benz,4.0,8,Premium_gasoline,15.0,11,13.2,21.0,309.0,other,Advanced Automatic
+2006,BMW,3.0,6,Premium_gasoline,11.5,7,9.5,30.0,218.0,small_car,Manual
+2022,Porsche,2.9,6,Premium_gasoline,13.8,10,12.2,23.0,289.0,other,Automated Manual
+2022,Mercedes-Benz,3.0,6,Premium_gasoline,14.0,10,12.3,23.0,287.0,other,Advanced Automatic
+2019,Honda,1.5,4,Regular_gasoline,4.6,5,4.9,58.0,114.0,medium_car,CVT
+2008,BMW,3.0,6,Premium_gasoline,12.3,8,10.2,28.0,235.0,small_car,Manual
+2022,Honda,2.0,4,Regular_gasoline,9.1,7,8.0,35.0,186.0,large_car,Manual
+2012,BMW,3.0,6,Premium_gasoline,11.0,7,9.4,30.0,216.0,small_car,Manual
+2020,Toyota,2.5,4,Regular_gasoline,8.6,6,7.6,37.0,177.0,medium_car,Advanced Automatic
+2001,BMW,3.0,6,Premium_gasoline,11.3,7,9.5,30.0,218.0,small_car,Manual
+2020,Toyota,2.5,4,Regular_gasoline,5.3,5,5.1,55.0,121.0,medium_car,CVT
+2020,Porsche,3.0,6,Premium_gasoline,12.5,10,11.5,25.0,269.0,other,Advanced Automatic
+2021,Ford,3.5,6,Regular_gasoline,14.1,11,12.6,22.0,295.0,other,Advanced Automatic
+2022,Mercedes-Benz,4.0,8,Premium_gasoline,16.3,12,14.4,20.0,338.0,other,Advanced Automatic
+2019,Jaguar,2.0,4,Premium_gasoline,10.2,8,9.2,31.0,215.0,other,Advanced Automatic
+2022,Mercedes-Benz,3.0,6,Premium_gasoline,11.4,8,9.9,29.0,231.0,large_car,Advanced Automatic
+2022,Audi,2.0,4,Premium_gasoline,9.8,8,8.8,32.0,205.0,medium_car,Automated Manual
+2013,BMW,4.0,8,Premium_gasoline,15.4,10,12.9,22.0,297.0,small_car,Automated Manual
+2020,Land Rover,2.0,4,Premium_gasoline,12.6,10,11.3,25.0,266.0,other,Advanced Automatic
+2022,Volkswagen,1.5,4,Regular_gasoline,9.5,7,8.5,33.0,200.0,other,Standard Automatic
+2007,BMW,4.8,8,Premium_gasoline,13.8,9,11.5,25.0,264.0,large_car,Standard Automatic
+2001,BMW,2.2,6,Premium_gasoline,11.3,7,9.5,30.0,218.0,small_car,Manual
+2009,BMW,3.0,6,Premium_gasoline,11.3,7,9.3,30.0,214.0,small_car,Standard Automatic
+2004,BMW,4.4,8,Premium_gasoline,14.3,9,11.8,24.0,271.0,small_car,Automated Manual
+2020,Lexus,5.7,8,Premium_gasoline,19.2,14,16.9,17.0,395.0,other,Advanced Automatic
+2018,Mercedes-Benz,5.5,8,Premium_gasoline,19.9,16,17.9,16.0,419.0,other,Standard Automatic
+2018,Ford,3.3,6,Regular_gasoline,13.8,11,12.4,23.0,291.0,pick_up_truck,Advanced Automatic
+2020,Jaguar,5.0,8,Premium_gasoline,15.2,10,12.7,22.0,299.0,other,Advanced Automatic
+2022,Porsche,3.0,6,Premium_gasoline,14.7,10,12.7,22.0,296.0,other,Manual
+2021,Honda,1.5,4,Regular_gasoline,8.7,7,8.1,35.0,189.0,other,CVT
+2001,BMW,4.9,8,Premium_gasoline,17.5,11,14.4,20.0,331.0,small_car,Manual
+2010,BMW,4.4,8,Premium_gasoline,15.4,10,13.0,22.0,299.0,large_car,Standard Automatic
+2007,BMW,3.0,6,Premium_gasoline,12.2,8,10.3,27.0,237.0,small_car,Standard Automatic
+2022,Porsche,4.0,8,Premium_gasoline,15.7,12,13.9,20.0,323.0,large_car,Automated Manual
+2019,Volkswagen,1.8,4,Regular_gasoline,11.1,8,9.6,29.0,225.0,small_car,Manual
+2019,BMW,2.0,4,Premium_gasoline,10.7,8,9.3,30.0,217.0,other,Advanced Automatic
+2021,Audi,3.0,6,Premium_gasoline,11.5,9,10.1,28.0,237.0,small_car,Advanced Automatic
+2009,BMW,3.0,6,Premium_gasoline,11.4,7,9.6,29.0,221.0,small_car,Standard Automatic
+2018,BMW,3.0,6,Premium_gasoline,12.3,8,10.5,27.0,248.0,small_car,Advanced Automatic
+2022,Subaru,2.4,4,Premium_gasoline,12.7,9,11.2,25.0,262.0,medium_car,CVT
+2021,Ford,2.3,4,Regular_gasoline,11.9,8,10.3,27.0,241.0,small_car,Advanced Automatic
+2020,Jaguar,2.0,4,Premium_gasoline,10.1,7,8.8,32.0,207.0,medium_car,Advanced Automatic
+2008,BMW,3.0,6,Premium_gasoline,12.3,8,10.2,28.0,235.0,medium_car,Manual
+2010,BMW,3.0,6,Premium_gasoline,10.8,7,9.0,31.0,207.0,small_car,Manual
+2003,BMW,3.0,6,Premium_gasoline,14.7,11,12.9,22.0,297.0,other,Basic Automatic
+2018,Ford,3.5,6,Ethanol,19.7,14,17.3,16.0,288.0,other,Advanced Automatic
+2016,BMW,2.0,4,Premium_gasoline,11.3,7,9.4,30.0,221.0,small_car,Advanced Automatic
+2018,Audi,3.0,6,Premium_gasoline,11.5,8,9.9,29.0,232.0,small_car,Automated Manual
+2004,BMW,3.0,6,Premium_gasoline,13.0,9,11.0,26.0,253.0,small_car,Basic Automatic
+2020,Honda,2.0,4,Regular_gasoline,9.3,7,8.0,35.0,186.0,medium_car,Manual
+2021,Audi,2.0,4,Premium_gasoline,9.8,8,8.9,32.0,208.0,small_car,Automated Manual
+2009,BMW,3.0,6,Premium_gasoline,12.3,8,10.2,28.0,235.0,small_car,Manual
+2022,Porsche,3.0,6,Premium_gasoline,13.8,9,11.8,24.0,275.0,other,Manual
+2019,Land Rover,2.0,4,Premium_gasoline,11.7,9,10.6,27.0,248.0,other,Advanced Automatic
+2018,Audi,2.0,4,Premium_gasoline,10.4,9,9.6,29.0,226.0,other,Advanced Automatic
+2021,Volvo,2.0,4,Premium_gasoline,11.5,8,10.1,28.0,236.0,other,Advanced Automatic
+2008,BMW,3.0,6,Premium_gasoline,12.6,8,10.5,27.0,242.0,small_car,Manual
+2005,BMW,3.0,6,Premium_gasoline,12.3,8,10.3,27.0,237.0,other,Basic Automatic
+2004,BMW,2.2,6,Premium_gasoline,11.3,7,9.5,30.0,218.0,small_car,Manual
+2022,Mercedes-Benz,3.0,6,Premium_gasoline,13.4,11,12.1,23.0,283.0,other,Advanced Automatic
+2018,Porsche,3.6,6,Premium_gasoline,13.9,10,12.0,24.0,281.0,other,Standard Automatic
+2019,Audi,2.0,4,Premium_gasoline,10.0,7,8.7,32.0,204.0,small_car,Automated Manual
+2020,Mercedes-Benz,2.0,4,Premium_gasoline,9.4,7,8.3,34.0,195.0,small_car,Automated Manual
+2010,BMW,3.0,6,Premium_gasoline,11.6,8,9.8,29.0,225.0,small_car,Manual
+2021,Lexus,3.5,6,Premium_gasoline,13.8,9,11.1,25.0,269.0,medium_car,Advanced Automatic
+2018,Hyundai,1.6,4,Regular_gasoline,10.7,8,9.4,30.0,221.0,medium_car,Manual
+2021,Ford,2.0,4,Regular_gasoline,9.9,8,9.2,31.0,214.0,other,Advanced Automatic
+2022,Toyota,2.4,4,Premium_gasoline,11.1,8,9.6,29.0,224.0,other,Advanced Automatic
+2022,Lexus,3.5,6,Premium_gasoline,7.5,8,7.9,36.0,185.0,other,CVT
+2018,Toyota,2.5,4,Regular_gasoline,8.4,6,7.3,39.0,172.0,medium_car,Advanced Automatic
+2021,Toyota,1.8,4,Regular_gasoline,8.0,6,7.1,40.0,165.0,small_car,Manual
+2022,Audi,3.0,6,Premium_gasoline,11.1,8,9.7,29.0,227.0,small_car,Advanced Automatic
+2021,Mercedes-Benz,3.0,6,Premium_gasoline,10.6,8,9.6,29.0,226.0,medium_car,Advanced Automatic
+2020,BMW,3.0,6,Premium_gasoline,11.4,8,10.0,28.0,233.0,small_car,Advanced Automatic
+2021,Ford,1.5,3,Regular_gasoline,9.3,8,8.9,32.0,209.0,other,Standard Automatic
+2004,BMW,2.5,6,Premium_gasoline,12.5,8,10.3,27.0,237.0,medium_car,Standard Automatic
+2008,BMW,4.8,8,Premium_gasoline,13.4,9,11.2,25.0,258.0,medium_car,Standard Automatic
+2021,Porsche,3.0,6,Premium_gasoline,12.5,10,11.5,25.0,269.0,other,Advanced Automatic
+2022,Ford,2.0,4,Regular_gasoline,10.5,8,9.2,31.0,216.0,other,Standard Automatic
+2001,BMW,2.2,6,Premium_gasoline,11.6,7,9.7,29.0,223.0,small_car,Basic Automatic
+2020,Porsche,2.0,4,Premium_gasoline,11.7,9,10.5,27.0,245.0,other,Manual
+2021,Lexus,3.5,6,Regular_gasoline,13.1,9,11.1,25.0,268.0,other,Advanced Automatic
+2020,Hyundai,1.6,4,Regular_gasoline,7.3,6,6.7,42.0,160.0,small_car,CVT
+2010,BMW,3.0,6,Premium_gasoline,11.9,8,10.1,28.0,232.0,small_car,Standard Automatic
+2021,Audi,2.0,4,Premium_gasoline,10.1,8,9.3,30.0,217.0,other,Automated Manual
+2018,BMW,4.4,8,Premium_gasoline,14.7,10,12.4,23.0,292.0,large_car,Advanced Automatic
+2020,BMW,4.4,8,Premium_gasoline,17.8,13,15.6,18.0,362.0,other,Advanced Automatic
+2021,Toyota,5.7,8,Regular_gasoline,18.5,14,16.4,17.0,384.0,other,Advanced Automatic
+2022,Mercedes-Benz,3.0,6,Premium_gasoline,11.7,9,10.5,27.0,247.0,other,Advanced Automatic
+2019,Jaguar,3.0,6,Premium_gasoline,13.0,9,11.3,25.0,265.0,other,Advanced Automatic
+2018,Porsche,3.0,6,Premium_gasoline,12.1,8,10.4,27.0,243.0,other,Manual
+2004,BMW,2.5,6,Premium_gasoline,11.7,8,9.9,29.0,228.0,other,Manual
+2021,Porsche,4.0,8,Premium_gasoline,15.3,11,13.5,21.0,326.0,large_car,Automated Manual
+2018,Mercedes-Benz,3.0,6,Premium_gasoline,13.5,10,12.1,23.0,282.0,other,Advanced Automatic
+2020,Subaru,2.5,4,Premium_gasoline,14.3,11,12.7,22.0,297.0,small_car,Manual
+2021,Toyota,3.5,6,Regular_gasoline,10.9,8,9.5,30.0,221.0,medium_car,Advanced Automatic
+2018,Jaguar,3.0,6,Premium_gasoline,12.4,9,10.8,26.0,253.0,other,Advanced Automatic
+2018,Audi,3.0,6,Premium_gasoline,11.5,8,9.9,29.0,232.0,medium_car,Automated Manual
+2020,Ford,2.3,4,Regular_gasoline,11.8,8,10.3,27.0,242.0,small_car,Advanced Automatic
+2018,Hyundai,3.3,6,Regular_gasoline,12.9,9,11.3,25.0,265.0,other,Advanced Automatic
+2002,BMW,2.5,6,Premium_gasoline,11.8,8,10.0,28.0,230.0,small_car,Basic Automatic
+2005,BMW,2.5,6,Premium_gasoline,12.4,8,10.3,27.0,237.0,medium_car,Manual
+2006,BMW,3.0,6,Premium_gasoline,11.6,7,9.7,29.0,223.0,small_car,Manual
+2018,Ford,5.0,8,Regular_gasoline,14.7,12,13.8,20.0,324.0,pick_up_truck,Advanced Automatic
+2022,Mercedes-Benz,3.0,6,Premium_gasoline,12.8,10,11.5,25.0,269.0,other,Advanced Automatic
+2018,Porsche,3.0,6,Premium_gasoline,11.0,9,9.9,29.0,232.0,other,Automated Manual
+2021,Porsche,4.0,8,Premium_gasoline,15.8,12,14.2,20.0,331.0,other,Advanced Automatic
+2011,BMW,4.4,8,Premium_gasoline,14.4,9,11.9,24.0,274.0,medium_car,Manual
+2021,Toyota,2.5,4,Regular_gasoline,8.8,7,8.0,35.0,187.0,other,Advanced Automatic
+2013,BMW,3.0,6,Premium_gasoline,9.3,7,8.1,35.0,186.0,large_car,Standard Automatic
+2020,Subaru,2.0,4,Regular_gasoline,10.1,8,9.0,31.0,210.0,medium_car,Manual
+2012,BMW,2.0,4,Premium_gasoline,10.2,7,8.5,33.0,196.0,other,Standard Automatic
+2018,Hyundai,1.6,4,Regular_gasoline,4.3,4,4.3,66.0,102.0,large_car,Automated Manual
+2013,BMW,3.0,6,Premium_gasoline,8.0,6,7.1,40.0,163.0,small_car,Standard Automatic
+2019,Volvo,2.0,4,Premium_gasoline,11.1,7,9.4,30.0,219.0,small_car,Advanced Automatic
+2018,Mercedes-Benz,4.7,8,Premium_gasoline,16.5,13,14.7,19.0,346.0,other,Advanced Automatic
+2019,Ford,3.5,6,Regular_gasoline,14.7,11,12.9,22.0,303.0,pick_up_truck,Advanced Automatic
+2020,Porsche,3.0,6,Premium_gasoline,12.9,10,11.7,24.0,272.0,other,Automated Manual
+2016,BMW,2.0,4,Premium_gasoline,10.7,7,9.0,31.0,211.0,small_car,Manual
+2019,Porsche,3.0,6,Premium_gasoline,12.2,9,10.5,27.0,246.0,other,Manual
+2021,Toyota,2.0,4,Regular_gasoline,7.6,6,6.8,42.0,159.0,small_car,CVT
+2008,BMW,3.0,6,Premium_gasoline,11.2,7,9.3,30.0,214.0,small_car,Manual
+2015,BMW,3.0,6,Premium_gasoline,12.1,8,10.3,27.0,237.0,large_car,Advanced Automatic
+2019,Mercedes-Benz,4.0,8,Premium_gasoline,16.0,11,13.5,21.0,318.0,medium_car,Advanced Automatic
+2022,Audi,2.0,4,Regular_gasoline,10.4,8,9.2,31.0,215.0,other,Advanced Automatic
+2020,Audi,4.0,8,Premium_gasoline,16.0,11,13.7,21.0,321.0,other,Advanced Automatic
+2011,BMW,3.0,6,Premium_gasoline,11.0,7,9.3,30.0,214.0,small_car,Manual
+2022,Ford,2.3,4,Regular_gasoline,11.9,10,10.9,26.0,256.0,pick_up_truck,Advanced Automatic
+2003,BMW,3.2,6,Premium_gasoline,14.5,9,12.0,24.0,276.0,small_car,Manual
+2022,Ford,2.0,4,Regular_gasoline,11.1,9,10.2,27.0,240.0,other,Advanced Automatic
+2018,Mercedes-Benz,2.0,4,Premium_gasoline,10.3,8,9.2,31.0,217.0,small_car,Automated Manual
+2021,Audi,2.0,4,Regular_gasoline,10.4,8,9.2,31.0,216.0,small_car,Automated Manual
+2002,BMW,4.4,8,Premium_gasoline,13.9,10,12.2,23.0,281.0,small_car,Basic Automatic
+2020,Toyota,1.5,4,Regular_gasoline,4.9,6,5.1,55.0,120.0,small_car,CVT
+2005,BMW,2.5,6,Premium_gasoline,11.6,7,9.7,29.0,223.0,small_car,Manual
+2015,BMW,4.4,8,Premium_gasoline,16.1,11,13.7,21.0,315.0,small_car,Manual
+2019,Jaguar,2.0,4,Diesel,8.9,7,8.1,35.0,218.0,other,Advanced Automatic
+2014,BMW,2.0,4,Diesel,6.4,5,5.6,50.0,151.0,small_car,Standard Automatic
+2020,Mercedes-Benz,4.7,8,Premium_gasoline,13.5,9,11.6,24.0,270.0,other,Advanced Automatic
+2021,Toyota,2.0,4,Regular_gasoline,8.2,7,7.4,38.0,173.0,small_car,Manual
+2017,BMW,2.0,4,Premium_gasoline,10.5,7,9.1,31.0,213.0,large_car,Advanced Automatic
+2022,Honda,3.5,6,Regular_gasoline,12.8,10,11.5,25.0,271.0,pick_up_truck,Advanced Automatic
+2013,BMW,3.0,6,Premium_gasoline,10.6,7,8.9,32.0,205.0,small_car,Manual
+2019,Porsche,3.0,6,Premium_gasoline,12.4,9,10.7,26.0,250.0,large_car,Automated Manual
+2013,BMW,2.0,4,Premium_gasoline,9.0,6,7.5,38.0,172.0,other,Manual
+2021,Mercedes-Benz,2.0,4,Premium_gasoline,10.1,7,8.7,32.0,204.0,small_car,Advanced Automatic
+2006,BMW,4.8,8,Premium_gasoline,13.8,9,11.5,25.0,264.0,large_car,Standard Automatic
+2021,Subaru,2.0,4,Regular_gasoline,8.4,7,7.6,37.0,178.0,small_car,CVT
+2020,Toyota,2.0,4,Regular_gasoline,8.4,6,7.5,38.0,174.0,small_car,Manual
+2021,Porsche,2.5,4,Premium_gasoline,12.2,9,10.9,26.0,255.0,other,Automated Manual
+2020,Hyundai,2.4,4,Regular_gasoline,10.8,8,9.6,29.0,225.0,other,Advanced Automatic
+2017,BMW,2.0,4,Diesel,7.9,6,7.0,40.0,189.0,small_car,Advanced Automatic
+2022,Audi,2.0,4,Premium_gasoline,10.3,8,9.3,30.0,217.0,other,Automated Manual
+2015,BMW,3.0,6,Premium_gasoline,14.1,10,12.1,23.0,278.0,small_car,Automated Manual
+2022,Ford,3.3,6,Regular_gasoline,10.1,9,9.6,29.0,225.0,other,Advanced Automatic
+2019,Hyundai,2.0,4,Regular_gasoline,9.1,7,8.2,34.0,193.0,small_car,Advanced Automatic
+2019,BMW,3.0,6,Premium_gasoline,14.3,10,12.6,22.0,294.0,small_car,Automated Manual
+2020,Toyota,3.5,6,Regular_gasoline,12.6,9,11.0,26.0,259.0,other,Advanced Automatic
+2020,Mercedes-Benz,4.0,8,Premium_gasoline,15.9,12,14.0,20.0,327.0,other,Automated Manual
+2021,Ford,2.3,4,Regular_gasoline,11.7,11,11.2,25.0,264.0,other,Advanced Automatic
+2019,Ford,3.5,6,Regular_gasoline,13.5,9,11.5,25.0,270.0,large_car,Advanced Automatic
+2019,Volkswagen,1.8,4,Regular_gasoline,10.7,8,9.4,30.0,220.0,small_car,Automated Manual
+2020,Toyota,2.7,4,Regular_gasoline,12.1,10,11.2,25.0,263.0,pick_up_truck,Advanced Automatic
+2021,Volkswagen,1.4,4,Regular_gasoline,8.2,7,7.5,38.0,174.0,small_car,Advanced Automatic
+2010,BMW,3.0,6,Premium_gasoline,11.3,7,9.3,30.0,214.0,small_car,Standard Automatic
+2018,Audi,2.0,4,Premium_gasoline,9.9,7,8.7,32.0,204.0,small_car,Manual
+2020,Ford,2.0,4,Regular_gasoline,9.8,9,9.3,30.0,219.0,other,Advanced Automatic
+2022,Audi,2.0,4,Premium_gasoline,12.0,9,10.8,26.0,252.0,other,Advanced Automatic
+2022,Mercedes-Benz,2.0,4,Premium_gasoline,9.8,7,8.6,33.0,200.0,small_car,Automated Manual
+2011,BMW,4.4,8,Premium_gasoline,12.2,8,10.5,27.0,242.0,large_car,Standard Automatic
+2018,Subaru,2.0,4,Premium_gasoline,11.3,9,10.0,28.0,235.0,small_car,Manual
+2021,Mercedes-Benz,3.0,6,Premium_gasoline,12.7,10,11.7,24.0,273.0,other,Advanced Automatic
+2019,BMW,3.0,6,Premium_gasoline,11.9,9,10.4,27.0,245.0,other,Advanced Automatic
+2019,Hyundai,3.3,6,Regular_gasoline,13.2,9,11.5,25.0,268.0,other,Advanced Automatic
+2018,Mercedes-Benz,2.0,4,Premium_gasoline,9.6,7,8.6,33.0,202.0,other,Advanced Automatic
+2020,Mercedes-Benz,4.0,8,Premium_gasoline,13.8,9,11.5,25.0,270.0,small_car,Advanced Automatic
+2018,Audi,2.0,4,Premium_gasoline,10.0,7,8.7,32.0,203.0,small_car,Automated Manual
+2022,Porsche,2.9,6,Premium_gasoline,14.7,11,12.9,22.0,307.0,other,Advanced Automatic
+2018,Mercedes-Benz,4.7,8,Premium_gasoline,13.5,10,11.8,24.0,275.0,other,Advanced Automatic
+2021,Lexus,2.0,4,Premium_gasoline,10.8,9,9.9,29.0,232.0,other,Advanced Automatic
+2020,Ford,5.0,8,Regular_gasoline,14.4,11,13.0,22.0,305.0,pick_up_truck,Advanced Automatic
+2020,Ford,3.5,6,Regular_gasoline,16.2,12,14.5,19.0,340.0,other,Advanced Automatic
+2019,Hyundai,2.4,4,Regular_gasoline,9.2,7,8.1,35.0,190.0,large_car,Advanced Automatic
+2019,Porsche,3.0,6,Premium_gasoline,11.5,9,10.4,27.0,243.0,other,Automated Manual
+2018,Ford,2.0,4,Regular_gasoline,10.2,8,9.3,30.0,217.0,other,Advanced Automatic
+2022,Ford,2.5,4,Regular_gasoline,12.1,9,10.6,27.0,249.0,other,Advanced Automatic
+2022,BMW,4.4,8,Premium_gasoline,17.9,13,15.7,18.0,364.0,other,Advanced Automatic
+2006,BMW,4.4,8,Premium_gasoline,14.8,10,12.6,22.0,290.0,other,Standard Automatic
+2018,BMW,3.0,6,Premium_gasoline,12.5,8,10.7,26.0,249.0,small_car,Manual
+2022,BMW,3.0,6,Premium_gasoline,15.7,12,13.9,20.0,323.0,other,Advanced Automatic
+2020,Hyundai,1.6,4,Regular_gasoline,4.2,4,4.1,69.0,96.0,large_car,Automated Manual
+2018,Jaguar,3.0,6,Premium_gasoline,11.8,8,10.2,28.0,238.0,small_car,Advanced Automatic
+2022,Ford,2.3,4,Regular_gasoline,11.0,7,9.3,30.0,220.0,small_car,Advanced Automatic
+2018,Ford,3.5,6,Premium_gasoline,20.4,13,17.1,17.0,403.0,other,Automated Manual
+2018,Ford,3.5,6,Ethanol,17.6,12,15.0,19.0,249.0,large_car,Advanced Automatic
+2018,Lexus,3.5,6,Premium_gasoline,10.3,8,9.1,31.0,211.0,medium_car,CVT
+2018,Ford,1.0,3,Regular_gasoline,7.9,6,7.0,40.0,164.0,small_car,Manual
+2017,BMW,3.0,6,Premium_gasoline,14.1,10,12.1,23.0,283.0,small_car,Automated Manual
+2004,BMW,2.5,6,Premium_gasoline,11.7,7,9.8,29.0,225.0,small_car,Manual
+2021,Jaguar,3.0,6,Premium_gasoline,13.0,9,11.3,25.0,265.0,other,Advanced Automatic
+2012,BMW,4.4,8,Premium_gasoline,13.9,9,11.5,25.0,264.0,small_car,Standard Automatic
+2012,BMW,2.0,4,Premium_gasoline,9.3,6,7.7,37.0,177.0,other,Manual
+2018,BMW,4.4,8,Premium_gasoline,15.4,11,13.5,21.0,317.0,other,Advanced Automatic
+2019,Mercedes-Benz,4.0,8,Premium_gasoline,14.6,10,12.7,22.0,299.0,medium_car,Advanced Automatic
+2018,Volkswagen,1.8,4,Regular_gasoline,10.8,8,9.6,29.0,224.0,small_car,Automated Manual
+2020,Ford,2.5,4,Regular_gasoline,12.0,9,10.6,27.0,247.0,other,Advanced Automatic
+2019,Mercedes-Benz,6.0,12,Premium_gasoline,18.6,11,15.1,19.0,356.0,large_car,Standard Automatic
+2020,Audi,3.0,6,Premium_gasoline,11.8,9,10.6,27.0,247.0,medium_car,Automated Manual
+2004,BMW,2.5,6,Premium_gasoline,12.3,8,10.4,27.0,239.0,small_car,Basic Automatic
+2013,BMW,4.4,8,Premium_gasoline,12.9,8,10.8,26.0,248.0,small_car,Standard Automatic
+2022,BMW,4.4,8,Premium_gasoline,16.1,11,13.8,20.0,322.0,small_car,Advanced Automatic
+2006,BMW,4.8,8,Premium_gasoline,13.8,9,11.5,25.0,264.0,large_car,Standard Automatic
+2020,Hyundai,1.6,4,Regular_gasoline,10.1,8,9.0,31.0,214.0,medium_car,Manual
+2008,BMW,3.0,6,Premium_gasoline,11.9,8,9.9,29.0,228.0,small_car,Standard Automatic
+2022,Volkswagen,1.5,4,Regular_gasoline,7.7,6,6.8,42.0,159.0,small_car,Advanced Automatic
+2019,Ford,3.5,6,Regular_gasoline,15.3,13,14.3,20.0,336.0,pick_up_truck,Advanced Automatic
+2019,Volkswagen,2.0,4,Regular_gasoline,9.0,7,8.2,34.0,191.0,small_car,Advanced Automatic
+2020,Hyundai,1.6,4,Regular_gasoline,8.9,7,8.1,35.0,192.0,medium_car,Automated Manual
+2009,BMW,3.0,6,Premium_gasoline,11.3,7,9.3,30.0,214.0,small_car,Manual
+2018,Honda,1.8,4,Regular_gasoline,9.4,7,8.4,34.0,195.0,small_car,Manual
+2022,Honda,1.5,4,Premium_gasoline,8.7,6,7.7,37.0,180.0,medium_car,Manual
+2019,Audi,2.0,4,Regular_gasoline,10.7,8,9.5,30.0,221.0,small_car,Automated Manual
+2019,Honda,1.5,4,Regular_gasoline,7.8,6,7.1,40.0,165.0,medium_car,CVT
+2018,Ford,1.5,4,Regular_gasoline,10.0,7,8.7,32.0,203.0,medium_car,Advanced Automatic
+2019,BMW,2.0,4,Premium_gasoline,10.8,8,9.6,29.0,223.0,other,Advanced Automatic
+2020,Mercedes-Benz,4.0,8,Premium_gasoline,18.1,16,17.0,17.0,396.0,other,Advanced Automatic
+2006,BMW,4.8,8,Premium_gasoline,14.8,9,12.3,23.0,283.0,medium_car,Manual
+2022,BMW,6.6,12,Premium_gasoline,17.8,12,15.1,19.0,354.0,large_car,Advanced Automatic
+2008,BMW,5.0,10,Premium_gasoline,20.3,12,16.4,17.0,377.0,small_car,Manual
+2010,BMW,3.0,6,Premium_gasoline,12.2,8,10.2,28.0,235.0,small_car,Manual
+2018,Honda,1.5,4,Regular_gasoline,8.1,7,7.4,38.0,174.0,small_car,Manual
+2019,Ford,5.0,8,Ethanol,20.3,14,17.5,16.0,290.0,pick_up_truck,Advanced Automatic
+2020,Jaguar,2.0,4,Premium_gasoline,11.0,8,9.8,29.0,231.0,other,Advanced Automatic
+2022,Volvo,2.0,4,Regular_gasoline,10.7,8,9.3,30.0,217.0,other,Advanced Automatic
+2019,Ford,2.3,4,Regular_gasoline,11.8,9,10.4,27.0,244.0,small_car,Manual
+2017,BMW,3.0,6,Premium_gasoline,13.7,9,11.7,24.0,273.0,small_car,Manual
+2001,BMW,3.2,6,Premium_gasoline,14.5,9,12.0,24.0,276.0,small_car,Manual
+2019,Volkswagen,1.8,4,Regular_gasoline,10.8,8,9.6,29.0,224.0,small_car,Automated Manual
+2014,BMW,2.0,4,Premium_gasoline,9.3,6,7.8,36.0,179.0,small_car,Standard Automatic
+2005,BMW,3.0,6,Premium_gasoline,11.8,7,9.8,29.0,225.0,small_car,Manual
+2020,Land Rover,2.0,4,Premium_gasoline,11.4,9,10.3,27.0,242.0,other,Advanced Automatic
+2016,BMW,3.0,6,Premium_gasoline,11.9,8,10.2,28.0,238.0,small_car,Advanced Automatic
+2019,Mercedes-Benz,4.0,8,Premium_gasoline,13.5,9,11.3,25.0,265.0,medium_car,Advanced Automatic
+2021,Ford,3.5,6,Regular_gasoline,14.7,11,13.1,22.0,308.0,other,Advanced Automatic
+2019,Mercedes-Benz,3.0,6,Premium_gasoline,11.8,8,10.2,28.0,238.0,other,Advanced Automatic
+2021,Volkswagen,2.0,4,Regular_gasoline,11.7,10,10.9,26.0,256.0,other,Advanced Automatic
+2017,BMW,3.0,6,Premium_gasoline,11.1,8,9.6,29.0,224.0,small_car,Advanced Automatic
+2013,BMW,3.0,6,Premium_gasoline,10.8,7,9.2,31.0,212.0,small_car,Manual
+2004,BMW,2.5,6,Premium_gasoline,10.7,7,9.0,31.0,207.0,other,Automated Manual
+2021,Mercedes-Benz,4.0,8,Premium_gasoline,16.6,13,14.8,19.0,346.0,other,Advanced Automatic
+2020,Mercedes-Benz,4.0,8,Premium_gasoline,15.2,11,13.5,21.0,315.0,other,Automated Manual
+2019,Ford,3.3,6,Regular_gasoline,12.2,9,10.9,26.0,256.0,pick_up_truck,Advanced Automatic
+2002,BMW,3.0,6,Premium_gasoline,12.6,8,10.6,27.0,244.0,small_car,Basic Automatic
+2016,BMW,4.4,8,Premium_gasoline,17.3,12,14.7,19.0,344.0,small_car,Automated Manual
+2021,Ford,3.5,6,Ethanol,21.6,16,19.3,15.0,321.0,other,Advanced Automatic
+2020,Porsche,2.9,6,Premium_gasoline,13.4,11,12.3,23.0,286.0,other,Advanced Automatic
+2020,Lexus,3.5,6,Premium_gasoline,12.3,9,10.9,26.0,254.0,small_car,Advanced Automatic
+2018,Lexus,3.5,6,Premium_gasoline,12.3,9,10.9,26.0,254.0,small_car,Advanced Automatic
+2018,Toyota,3.5,6,Regular_gasoline,12.5,9,10.9,26.0,256.0,other,Advanced Automatic
+2021,Porsche,4.0,6,Premium_gasoline,14.0,10,12.2,23.0,286.0,other,Manual
+2008,BMW,3.0,6,Premium_gasoline,12.3,8,10.3,27.0,237.0,small_car,Standard Automatic
+2022,Porsche,2.9,6,Premium_gasoline,13.8,10,12.2,23.0,292.0,large_car,Automated Manual
+2022,Ford,3.3,6,Ethanol,16.8,13,15.0,19.0,249.0,pick_up_truck,Advanced Automatic
+2021,Ford,3.5,6,Ethanol,22.3,17,19.9,14.0,331.0,other,Advanced Automatic
+2018,Lexus,3.5,6,Premium_gasoline,7.5,8,7.9,36.0,185.0,other,CVT
+2020,Audi,3.0,6,Premium_gasoline,13.5,9,11.5,25.0,267.0,large_car,Advanced Automatic
+2021,Volkswagen,2.0,4,Regular_gasoline,10.4,8,9.4,30.0,219.0,other,Advanced Automatic
+2018,Hyundai,2.4,4,Regular_gasoline,11.1,9,10.0,28.0,235.0,other,Advanced Automatic
+2020,Hyundai,2.4,4,Regular_gasoline,11.0,9,10.1,28.0,241.0,other,Advanced Automatic
+2022,BMW,4.4,8,Premium_gasoline,16.1,11,13.8,20.0,322.0,medium_car,Advanced Automatic
+2022,Ford,2.3,4,Regular_gasoline,13.5,14,13.7,21.0,323.0,other,Advanced Automatic
+2005,BMW,3.0,6,Premium_gasoline,15.9,10,13.3,21.0,306.0,other,Manual
+2012,BMW,3.0,6,Premium_gasoline,12.4,8,10.2,28.0,235.0,small_car,Manual
+2005,BMW,3.2,6,Premium_gasoline,13.3,9,11.3,25.0,260.0,small_car,Automated Manual
+2019,Ford,1.6,4,Regular_gasoline,8.6,6,7.6,37.0,178.0,small_car,Automated Manual
+2010,BMW,4.4,8,Premium_gasoline,17.1,11,14.3,20.0,329.0,other,Standard Automatic
+2018,Ford,3.5,6,Ethanol,18.7,13,16.3,17.0,271.0,large_car,Advanced Automatic
+2022,Honda,1.5,4,Regular_gasoline,7.6,6,6.9,41.0,162.0,medium_car,CVT
+2022,Volkswagen,2.0,4,Regular_gasoline,9.3,7,8.3,34.0,194.0,medium_car,Automated Manual
+2021,Ford,2.0,4,Regular_gasoline,9.9,8,9.2,31.0,214.0,other,Advanced Automatic
+2018,Porsche,2.0,4,Premium_gasoline,11.0,8,9.8,29.0,229.0,other,Manual
+2008,BMW,3.0,6,Premium_gasoline,11.2,7,9.3,30.0,214.0,small_car,Manual
+2021,BMW,2.0,4,Premium_gasoline,10.0,7,8.7,32.0,202.0,small_car,Advanced Automatic
+2016,BMW,3.0,6,Diesel,9.2,6,7.9,36.0,212.0,medium_car,Advanced Automatic
+2009,BMW,3.0,6,Premium_gasoline,12.3,8,10.2,28.0,235.0,small_car,Manual
+2019,Mercedes-Benz,4.7,8,Premium_gasoline,13.5,9,11.6,24.0,270.0,other,Advanced Automatic
+2022,BMW,3.0,6,Premium_gasoline,10.8,8,9.6,29.0,223.0,other,Advanced Automatic
+2019,Audi,2.0,4,Regular_gasoline,10.9,8,9.6,29.0,225.0,small_car,Automated Manual
+2020,Lexus,3.5,6,Premium_gasoline,12.3,9,10.9,26.0,254.0,medium_car,Advanced Automatic
+2009,BMW,3.0,6,Diesel,9.0,5,7.4,38.0,200.0,small_car,Standard Automatic
+2018,Volvo,2.0,4,Regular_gasoline,10.8,8,9.4,30.0,220.0,small_car,Advanced Automatic
+2018,Toyota,3.5,6,Regular_gasoline,11.4,8,9.7,29.0,226.0,medium_car,Advanced Automatic
+2010,BMW,3.0,6,Premium_gasoline,11.6,8,9.8,29.0,225.0,small_car,Manual
+2010,BMW,3.0,6,Premium_gasoline,12.2,7,10.1,28.0,232.0,small_car,Manual
+2021,Porsche,2.9,6,Premium_gasoline,13.4,11,12.3,23.0,286.0,other,Advanced Automatic
+2010,BMW,4.0,8,Premium_gasoline,15.3,10,12.8,22.0,294.0,small_car,Manual
+2008,BMW,3.0,6,Premium_gasoline,11.9,8,10.1,28.0,232.0,medium_car,Standard Automatic
+2019,Volvo,2.0,4,Premium_gasoline,11.3,9,10.0,28.0,233.0,other,Advanced Automatic
+2004,BMW,3.0,6,Premium_gasoline,15.9,10,13.3,21.0,306.0,other,Manual
+2019,Lexus,2.5,4,Regular_gasoline,5.5,5,5.3,53.0,124.0,medium_car,CVT
+2013,BMW,4.0,8,Premium_gasoline,15.7,10,13.2,21.0,304.0,small_car,Manual
+2012,BMW,4.4,8,Premium_gasoline,15.4,10,13.0,22.0,299.0,large_car,Standard Automatic
+2022,Ford,5.0,8,Ethanol,20.1,14,17.4,16.0,289.0,pick_up_truck,Advanced Automatic
+2019,Subaru,2.0,4,Regular_gasoline,8.8,7,8.1,35.0,188.0,other,CVT
+2022,Mercedes-Benz,4.0,8,Premium_gasoline,14.3,10,12.2,23.0,285.0,large_car,Advanced Automatic
+2019,Ford,3.0,6,Diesel,11.8,9,10.7,26.0,287.0,pick_up_truck,Advanced Automatic
+2021,Toyota,2.5,4,Regular_gasoline,8.6,6,7.6,37.0,177.0,medium_car,Advanced Automatic
+2021,Lexus,5.0,8,Premium_gasoline,16.0,10,13.0,22.0,304.0,other,Advanced Automatic
+2021,Toyota,1.8,4,Regular_gasoline,4.6,5,4.8,59.0,111.0,medium_car,CVT
+2020,Porsche,4.0,8,Premium_gasoline,15.6,12,14.1,20.0,329.0,other,Advanced Automatic
+2021,Lexus,2.0,4,Regular_gasoline,8.0,6,7.2,39.0,168.0,medium_car,Advanced Automatic
+2016,BMW,3.0,6,Premium_gasoline,12.7,9,11.1,25.0,260.0,small_car,Manual
+2016,BMW,2.0,4,Premium_gasoline,10.5,7,8.9,32.0,209.0,large_car,Advanced Automatic
+2013,BMW,4.4,8,Premium_gasoline,14.4,9,12.1,23.0,278.0,small_car,Manual
+2014,BMW,2.0,4,Diesel,6.4,5,5.6,50.0,151.0,small_car,Standard Automatic
+2013,BMW,3.0,6,Premium_gasoline,11.3,7,9.3,30.0,214.0,small_car,Standard Automatic
+2018,Jaguar,3.0,6,Premium_gasoline,13.0,9,11.3,25.0,265.0,other,Advanced Automatic
+2020,Lexus,2.0,4,Regular_gasoline,8.0,6,7.2,39.0,168.0,medium_car,Advanced Automatic
+2022,Audi,2.9,6,Premium_gasoline,13.1,9,11.4,25.0,268.0,medium_car,Advanced Automatic
+2010,BMW,3.0,6,Premium_gasoline,10.8,7,9.0,31.0,207.0,medium_car,Manual
+2019,Porsche,2.9,6,Premium_gasoline,13.1,9,11.2,25.0,261.0,large_car,Automated Manual
+2021,Lexus,2.0,4,Premium_gasoline,11.0,8,9.5,30.0,221.0,small_car,Advanced Automatic
+2018,Mercedes-Benz,4.0,8,Premium_gasoline,15.2,11,13.3,21.0,312.0,medium_car,Advanced Automatic
+2000,BMW,2.5,6,Premium_gasoline,13.0,9,11.2,25.0,258.0,small_car,Basic Automatic
+2016,BMW,4.4,8,Premium_gasoline,15.7,11,13.8,20.0,322.0,other,Advanced Automatic
+2018,Mercedes-Benz,2.0,4,Premium_gasoline,10.7,8,9.5,30.0,222.0,medium_car,Advanced Automatic
+2022,Porsche,3.0,6,Premium_gasoline,13.8,9,11.8,24.0,275.0,other,Manual
+2022,Honda,2.0,4,Regular_gasoline,8.0,6,7.2,39.0,167.0,large_car,CVT
+2020,BMW,3.0,6,Premium_gasoline,11.4,8,10.0,28.0,233.0,small_car,Advanced Automatic
+2019,Honda,1.5,4,Regular_gasoline,7.8,6,7.2,39.0,167.0,small_car,CVT
+2005,BMW,3.0,6,Premium_gasoline,12.8,9,10.9,26.0,251.0,small_car,Basic Automatic
+2018,Toyota,2.5,4,Regular_gasoline,10.0,8,9.0,31.0,210.0,other,Advanced Automatic
+2019,Porsche,3.0,6,Premium_gasoline,10.8,8,9.7,29.0,226.0,other,Automated Manual
+2020,Toyota,2.5,4,Regular_gasoline,4.9,5,4.9,58.0,113.0,medium_car,CVT
+2020,Porsche,4.0,8,Premium_gasoline,13.4,10,11.9,24.0,279.0,large_car,Automated Manual
+2015,BMW,3.0,6,Premium_gasoline,13.2,9,11.2,25.0,258.0,other,Advanced Automatic
+2011,BMW,3.0,6,Premium_gasoline,11.3,7,9.5,30.0,218.0,small_car,Standard Automatic
