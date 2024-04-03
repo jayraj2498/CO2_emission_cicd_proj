@@ -26,3 +26,28 @@
 - incase if you have big data you put it into cloud that configraion info track by git 
 
 
+
+
+#### Ml Flow - experiment tracking ( integrate the code ) 
+
+- if run our model various time we should know everytime our model :
+  - accuracy , r2score  , evalution matrix : all these thing we track by using MLflows 
+
+Ml flows is the platform for entire ML lifecycle 
+
+
+
+#### Dagshub - : public repository 
+- till now we putting our code in the github 
+- now in dagshub we will connect that repository  and track that specific repository 
+-  and see    
+
+
+- we have to setup all thing in the environment variable all the commmand in git bash 
+'''
+export MLFLOW_TRACKING_URI=https://dagshub.com/jayraj2498/CO2_emission_cicd-.mlflow \
+export MLFLOW_TRACKING_USERNAME=jayraj2498 \
+export MLFLOW_TRACKING_PASSWORD=777e2be0b0c43fcc2efbc898716cbaebe35c912b \
+export python script.py  '''   <-- optional >
+
+from that command it get to know what mlflow log need to do  in dagshub repository  
