@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/co2_emssion/mlruns/0/4383f73f63e6431ca05c3976ed612fca/artifacts
+end_time: 1712175121872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4383f73f63e6431ca05c3976ed612fca
+run_name: hilarious-bass-527
+run_uuid: 4383f73f63e6431ca05c3976ed612fca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712175111305
+status: 3
+tags: []
+user_id: root

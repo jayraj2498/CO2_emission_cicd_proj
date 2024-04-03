@@ -24,20 +24,17 @@ def predict_datapoint():
         return render_template('home.html')  
     else :                                                                      # in the post part we have to capture data , we have to do standarscaling then we do prediction
         data=CustomData(
-            Delivery_person_Age = float(request.form.get('Delivery_person_Age')),
-            Delivery_person_Ratings = float(request.form.get('Delivery_person_Ratings')),
-            Weather_conditions = request.form.get('Weather_conditions'),
-            Road_traffic_density = request.form.get('Road_traffic_density'),
-            Vehicle_condition = int(request.form.get('Vehicle_condition')),
-            Type_of_order = request.form.get('Type_of_order'),
-            Type_of_vehicle = request.form.get('Type_of_vehicle'),
-            multiple_deliveries = float(request.form.get('multiple_deliveries')),
-            Festival = request.form.get('Festival'),
-            City = request.form.get('City'),
-            Time_Orderd_minute = float(request.form.get('Time_Orderd_minute')),
-            Time_Orderd_second = float(request.form.get('Time_Orderd_second')),
-            Time_Order_picked_minute = float(request.form.get('Time_Order_picked_minute')),
-            Time_Order_picked_second = float(request.form.get('Time_Order_picked_second'))
+            YEAR=int(request.form.get('YEAR')),
+            MAKE=request.form.get('MAKE'),
+            ENGINE_SIZE=float(request.form.get('ENGINE_SIZE')),
+            CYLINDERS=float(request.form.get('CYLINDERS')),
+            FUEL=request.form.get('FUEL'),
+            FUEL_CONSUMPTION=float(request.form.get('FUEL_CONSUMPTION')),
+            HWY_L_PER_100KM=float(request.form.get('HWY_L_PER_100KM')),
+            COMB_L_PER_100KM=float(request.form.get('COMB_L_PER_100KM')),
+            COMB_MPG=float(request.form.get('COMB_MPG')),
+            BROAD_VEHICLE_CLASS=request.form.get('BROAD_VEHICLE_CLASS'),
+            TRANSMISSION_GROUP=request.form.get('TRANSMISSION_GROUP')
 
         )
         
@@ -49,7 +46,7 @@ def predict_datapoint():
         print("Mid Prediction")
         results=predict_pipeline.predict(pred_df)                       # throght predict opreation we get our output(here we are using all power of of predict function from pipeline.py)  
         print("after Prediction")
-        results=round(results[0],2)
+        # results=round(results[0],2)
         
         return render_template('results.html',final_result=results)         # our putput it is in the list format 
         
