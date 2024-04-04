@@ -30,7 +30,7 @@ class DataTransformation:
         
         '''
         try:
-            numerical_columns = ['YEAR','ENGINE SIZE', 'CYLINDERS', 'FUEL CONSUMPTION', 'HWY (L/100 km)', 'COMB (L/100 km)', 'COMB (mpg)']        # dont give DV col
+            numerical_columns = ['YEAR','ENGINE_SIZE', 'CYLINDERS', 'FUEL_CONSUMPTION', 'HWY_L_PER_100KM', 'COMB_L_PER_100KM', 'COMB_MPG']        # dont give DV col
             categorical_columns = [
                 'MAKE', 'FUEL', 'BROAD_VEHICLE_CLASS', 'TRANSMISSION_GROUP'
             ]
@@ -87,9 +87,9 @@ class DataTransformation:
             
             
             target_column_name='CO2_EMISSIONS' 
-            numerical_columns  =  ['Delivery_person_Age', 'Delivery_person_Ratings', 'Vehicle_condition',
-                                    'multiple_deliveries', 'Time_Orderd_minute', 'Time_Orderd_second',
-                                    'Time_Order_picked_minute', 'Time_Order_picked_second']
+            # numerical_columns  =  ['Delivery_person_Age', 'Delivery_person_Ratings', 'Vehicle_condition',
+            #                         'multiple_deliveries', 'Time_Orderd_minute', 'Time_Orderd_second',
+            #                         'Time_Order_picked_minute', 'Time_Order_picked_second']
             
             
             input_feature_train_df = train_df.drop(columns=[target_column_name] , axis=1)  

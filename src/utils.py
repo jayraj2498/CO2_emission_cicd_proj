@@ -76,7 +76,7 @@ def load_object(file_path):
     
     
 # Reading dataset from SQl 
-# to read confidential data  from .env file we download liabrary -> python-dotenv (it will load all data  .env file) 
+# to read confidential data  from .env file we download liabrary -> python-dotenv (it will load all data from  .env file) 
 
 from dotenv import load_dotenv 
 import pymysql as sql   

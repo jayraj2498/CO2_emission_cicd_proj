@@ -46,12 +46,12 @@ def predict_datapoint():
         print("Mid Prediction")
         results=predict_pipeline.predict(pred_df)                       # throght predict opreation we get our output(here we are using all power of of predict function from pipeline.py)  
         print("after Prediction")
-        # results=round(results[0],2)
+        results=round(results[0],2)
         
         return render_template('results.html',final_result=results)         # our putput it is in the list format 
         
         
         
 if __name__=="__main__":
-    app.run(host="0.0.0.0" , port=5000)                   # debug=True  we will remove debug , while we deplye on cloud 
+    app.run(host="0.0.0.0" ,debug= True ,  port=5000)                   # debug=True  we will remove debug , while we deplye on cloud 
         

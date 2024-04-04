@@ -3,7 +3,7 @@
 
 import os 
 import sys
-sys.path.append('E:\\END_TO_END_Deployed\\mlproject\\src')
+# sys.path.append('E:\\END_TO_END_Deployed\\mlproject\\src')
 
 # python -m src.components.data_ingestion    # plz use these line when error raise 
 
@@ -42,6 +42,7 @@ class DataIngestion:
             # logging.info('Read the dataset as dataframe') 
             
             df=read_sql_data()
+            print(df.head(3))
             logging.info('Read the dataset from mysql database completed ')
 
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path),exist_ok=True)
